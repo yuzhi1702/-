@@ -1,11 +1,13 @@
+*{margin: 0;padding: 0;}
 #wrap{
     width: 100%;
     height: 100%;
 }
+
 #content{
     width: 100%;
     height: 90%;
-    overflow: hidden;
+    overflow:auto;
 }
 #tab{
     width: 100%;
@@ -13,7 +15,7 @@
     border-top:1px solid #eee ;
     position: fixed;
     bottom: 0;
-    font-size: .16rem;
+    font-size: 0.16rem;
 }
 #tab>ul{
     width: 100%;
