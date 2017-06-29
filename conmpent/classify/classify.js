@@ -13,4 +13,8 @@ angular.module('classifyModule',['ui.router'])
     })
 .controller('classifyCtrl',['$scope',function ($scope) {
     $scope.name="classify";
+
+
+
+    console.log()
 }])

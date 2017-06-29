@@ -1,0 +1,1427 @@
+{
+  "success": true,
+  "returnCode": "1001",
+  "returnMessage": null,
+  "data": {
+    "total": 40501,
+    "title": "wap类目图墙",
+    "sort": "pop",
+    "isEnd": false,
+    "cpc_offset": 0,
+    "param": {
+      "_mgjuuid": "f2ddc74d-8392-48a9-b097-bce2628dd09b",
+      "sort": "pop",
+      "ptpWallCpc": "_wall_cpc",
+      "section": "0",
+      "ptpWallDoc": "_wall_docs",
+      "cpc_offset": 0,
+      "eventId": 70003,
+      "cKey": "wap-cate",
+      "page": "1",
+      "fcid": "10057210",
+      "cpcEventId": 700015,
+      "ptpPartC": "_mb_mls_10057210_wap-cate_noab-noab",
+      "minPrice": "5"
+    },
+    "page": 1,
+    "list": [
+      {
+        "orgPrice": "￥33.75",
+        "acm": "3.ms.2_4_1keioda.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1keioda",
+        "link": "http://item.meilishuo.com/h5/detail/1keioda?acm=3.ms.2_4_1keioda.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keioda?acm=3.ms.2_4_1keioda.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170623/upload_39cgdj4ak4h1409g90j9588d33b0f_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 21,
+        "title": "韩版拖鞋 亚麻 笑脸 夏季 男士",
+        "cfav": 133,
+        "price": "￥33.75",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "韩版拖鞋;亚麻;笑脸;夏季;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170623/upload_39cgdj4ak4h1409g90j9588d33b0f_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "韩版拖鞋",
+          "亚麻",
+          "笑脸",
+          "夏季",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥72.50",
+        "acm": "3.ms.2_4_1kej0c4.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1kej0c4",
+        "link": "http://item.meilishuo.com/h5/detail/1kej0c4?acm=3.ms.2_4_1kej0c4.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kej0c4?acm=3.ms.2_4_1kej0c4.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170623/upload_3ckiik77f82j7djil4aidda0hch9e_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 20,
+        "title": "凉鞋 沙滩拖鞋 新款 韩版",
+        "cfav": 142,
+        "price": "￥72.50",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "凉鞋;沙滩拖鞋;新款;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170623/upload_3ckiik77f82j7djil4aidda0hch9e_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "凉鞋",
+          "沙滩拖鞋",
+          "新款",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥198.58",
+        "acm": "3.ms.2_4_1h5dy48.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1h5dy48",
+        "link": "http://item.meilishuo.com/h5/detail/1h5dy48?acm=3.ms.2_4_1h5dy48.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h5dy48?acm=3.ms.2_4_1h5dy48.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170222/925499728_2363if9f3a94972cl120034i4egf9_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 33,
+        "title": "休闲鞋 男鞋 流行 新款时尚 男士 韩版",
+        "cfav": 390,
+        "price": "￥139.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201639058,
+        "titleTags": "休闲鞋;男鞋;流行;新款时尚;男士;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170222/925499728_2363if9f3a94972cl120034i4egf9_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲鞋",
+          "男鞋",
+          "流行",
+          "新款时尚",
+          "男士",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥75.00",
+        "acm": "3.ms.2_4_1keizz4.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1keizz4",
+        "link": "http://item.meilishuo.com/h5/detail/1keizz4?acm=3.ms.2_4_1keizz4.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keizz4?acm=3.ms.2_4_1keizz4.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/p2/170623/upload_6gked6aj61k7b55aig4g8623ac542_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 17,
+        "title": "软木凉鞋 日系 夏季 男士",
+        "cfav": 108,
+        "price": "￥75.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "软木凉鞋;日系;夏季;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170623/upload_6gked6aj61k7b55aig4g8623ac542_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "软木凉鞋",
+          "日系",
+          "夏季",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥140.00",
+        "acm": "3.ms.2_1_1ke0s2i.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_227883374_0_1_0-c1_",
+        "iid": "1ke0s2i",
+        "link": "http://item.meilishuo.com/h5/detail/1ke0s2i?acm=3.ms.2_1_1ke0s2i.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_227883374_0_1_0-c1_&cparam=MTQ5ODY1MDkzM18xN2pjb2llXzJiYTU0ODU1NWU2NGZhNjg2NDhiZWVlYzEyNzIzODcwXzE2XzBfMjI3ODgzMzc0XzAuOTkzOV8wXzFfMV8zMzVfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1ke0s2i?acm=3.ms.2_1_1ke0s2i.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_227883374_0_1_0-c1_&cparam=MTQ5ODY1MDkzM18xN2pjb2llXzJiYTU0ODU1NWU2NGZhNjg2NDhiZWVlYzEyNzIzODcwXzE2XzBfMjI3ODgzMzc0XzAuOTkzOV8wXzFfMV8zMzVfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODY1MDkzM18xN2pjb2llXzJiYTU0ODU1NWU2NGZhNjg2NDhiZWVlYzEyNzIzODcwXzE2XzBfMjI3ODgzMzc0XzAuOTkzOV8wXzFfMV8zMzVfMF8w",
+        "itemMarks": "114",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170616_0k83g1lkgig20lh0c31cd01aijij1_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "1",
+        "title": "情侣凉鞋 潮款 休闲 百搭 韩版 夏季 男士",
+        "cfav": "3",
+        "price": "￥98.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "1201632876",
+        "titleTags": "情侣凉鞋;潮款;休闲;百搭;韩版;夏季;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170616_0k83g1lkgig20lh0c31cd01aijij1_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "情侣凉鞋",
+          "潮款",
+          "休闲",
+          "百搭",
+          "韩版",
+          "夏季",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥140.00",
+        "acm": "3.ms.2_1_1ke0sde.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_227883759_0_2_0-c1_",
+        "iid": "1ke0sde",
+        "link": "http://item.meilishuo.com/h5/detail/1ke0sde?acm=3.ms.2_1_1ke0sde.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_227883759_0_2_0-c1_&cparam=MTQ5ODY1MDkzM18xN2lxdmo2XzM5ZjA4MTY0ZGIxYmIxYTRlZmFiNWEzMzUwY2JlZDU3XzE2XzFfMjI3ODgzNzU5XzAuNzY0OF8wXzJfMV8zMzVfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1ke0sde?acm=3.ms.2_1_1ke0sde.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_227883759_0_2_0-c1_&cparam=MTQ5ODY1MDkzM18xN2lxdmo2XzM5ZjA4MTY0ZGIxYmIxYTRlZmFiNWEzMzUwY2JlZDU3XzE2XzFfMjI3ODgzNzU5XzAuNzY0OF8wXzJfMV8zMzVfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODY1MDkzM18xN2lxdmo2XzM5ZjA4MTY0ZGIxYmIxYTRlZmFiNWEzMzUwY2JlZDU3XzE2XzFfMjI3ODgzNzU5XzAuNzY0OF8wXzJfMV8zMzVfMF8w",
+        "itemMarks": "114",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170616_272f02kh6kl929652e37feh02h30d_1140x1500.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "1",
+        "title": "情侣凉鞋 潮款 休闲 百搭 韩版 夏季 男士",
+        "cfav": "7",
+        "price": "￥98.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "1201632876",
+        "titleTags": "情侣凉鞋;潮款;休闲;百搭;韩版;夏季;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170616_272f02kh6kl929652e37feh02h30d_1140x1500.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "情侣凉鞋",
+          "潮款",
+          "休闲",
+          "百搭",
+          "韩版",
+          "夏季",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥184.29",
+        "acm": "3.ms.2_4_1k96i2c.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1k96i2c",
+        "link": "http://item.meilishuo.com/h5/detail/1k96i2c?acm=3.ms.2_4_1k96i2c.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k96i2c?acm=3.ms.2_4_1k96i2c.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170329_2ceagcdff3gbch6e2k5ge14l9c0c0_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 21,
+        "title": "休闲鞋 透气男鞋 男士 韩版 新款",
+        "cfav": 63,
+        "price": "￥129.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201639058,
+        "titleTags": "休闲鞋;透气男鞋;男士;韩版;新款",
+        "showLarge": {
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170329_2ceagcdff3gbch6e2k5ge14l9c0c0_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲鞋",
+          "透气男鞋",
+          "男士",
+          "韩版",
+          "新款"
+        ]
+      },
+      {
+        "orgPrice": "￥81.25",
+        "acm": "3.ms.2_4_1keisnk.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1keisnk",
+        "link": "http://item.meilishuo.com/h5/detail/1keisnk?acm=3.ms.2_4_1keisnk.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keisnk?acm=3.ms.2_4_1keisnk.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170623/upload_5kc096ldc2j71ckbd7dgd6clfabf9_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 18,
+        "title": "凉鞋 沙滩鞋 包头 情侣款 懒人 韩版 夏季",
+        "cfav": 400,
+        "price": "￥81.25",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "凉鞋;沙滩鞋;包头;情侣款;懒人;韩版;夏季",
+        "showLarge": {
+          "img": "http://s11.mogucdn.com/p2/170623/upload_5kc096ldc2j71ckbd7dgd6clfabf9_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "凉鞋",
+          "沙滩鞋",
+          "包头",
+          "情侣款",
+          "懒人",
+          "韩版",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥56.25",
+        "acm": "3.ms.2_4_1ka13o0.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1ka13o0",
+        "link": "http://item.meilishuo.com/h5/detail/1ka13o0?acm=3.ms.2_4_1ka13o0.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1ka13o0?acm=3.ms.2_4_1ka13o0.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170411/upload_7lghik78l3d1dcbfcb2gk628k9ak4_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 115,
+        "title": "休闲鞋 情侣鞋 低帮 经典",
+        "cfav": 743,
+        "price": "￥56.25",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲鞋;情侣鞋;低帮;经典",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170411/upload_7lghik78l3d1dcbfcb2gk628k9ak4_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "休闲鞋",
+          "情侣鞋",
+          "低帮",
+          "经典"
+        ]
+      },
+      {
+        "orgPrice": "￥68.75",
+        "acm": "3.ms.2_4_1kaif7q.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1kaif7q",
+        "link": "http://item.meilishuo.com/h5/detail/1kaif7q?acm=3.ms.2_4_1kaif7q.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kaif7q?acm=3.ms.2_4_1kaif7q.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170418/upload_02i65ac76l706ea29f7964g0ljj58_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 9,
+        "title": "白色帆布鞋 低帮 百搭 夏季 男士",
+        "cfav": 329,
+        "price": "￥68.75",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "白色帆布鞋;低帮;百搭;夏季;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170418/upload_02i65ac76l706ea29f7964g0ljj58_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "白色帆布鞋",
+          "低帮",
+          "百搭",
+          "夏季",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥184.29",
+        "acm": "3.ms.2_4_1h6jxri.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1h6jxri",
+        "link": "http://item.meilishuo.com/h5/detail/1h6jxri?acm=3.ms.2_4_1h6jxri.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h6jxri?acm=3.ms.2_4_1h6jxri.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170416_1ed0755l78dgi405i274li887ckea_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 12,
+        "title": "休闲鞋皮鞋 低帮 透气 真皮 男士 韩版 新款",
+        "cfav": 153,
+        "price": "￥129.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201639058,
+        "titleTags": "休闲鞋皮鞋;低帮;透气;真皮;男士;韩版;新款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170416_1ed0755l78dgi405i274li887ckea_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲鞋皮鞋",
+          "低帮",
+          "透气",
+          "真皮",
+          "男士",
+          "韩版",
+          "新款"
+        ]
+      },
+      {
+        "orgPrice": "￥81.25",
+        "acm": "3.ms.2_4_1keiybm.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1keiybm",
+        "link": "http://item.meilishuo.com/h5/detail/1keiybm?acm=3.ms.2_4_1keiybm.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keiybm?acm=3.ms.2_4_1keiybm.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170626/upload_4kg0j2b8badaa70debflbff63hadk_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 16,
+        "title": "凉鞋 软木拖鞋 防滑 新款 夏季 男士",
+        "cfav": 274,
+        "price": "￥81.25",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "凉鞋;软木拖鞋;防滑;新款;夏季;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170626/upload_4kg0j2b8badaa70debflbff63hadk_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "凉鞋",
+          "软木拖鞋",
+          "防滑",
+          "新款",
+          "夏季",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥170.00",
+        "acm": "3.ms.2_4_1kasfto.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1kasfto",
+        "link": "http://item.meilishuo.com/h5/detail/1kasfto?acm=3.ms.2_4_1kasfto.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kasfto?acm=3.ms.2_4_1kasfto.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170422_05heijd0id7feh9lla7chka05gfj4_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 23,
+        "title": "休闲鞋 透气男鞋 百搭 男士 夏季 韩版 新款",
+        "cfav": 81,
+        "price": "￥119.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201681156,
+        "titleTags": "休闲鞋;透气男鞋;百搭;男士;夏季;韩版;新款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170422_05heijd0id7feh9lla7chka05gfj4_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲鞋",
+          "透气男鞋",
+          "百搭",
+          "男士",
+          "夏季",
+          "韩版",
+          "新款"
+        ]
+      },
+      {
+        "orgPrice": "￥80.00",
+        "acm": "3.ms.2_4_1gjhjrc.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1gjhjrc",
+        "link": "http://item.meilishuo.com/h5/detail/1gjhjrc?acm=3.ms.2_4_1gjhjrc.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1gjhjrc?acm=3.ms.2_4_1gjhjrc.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "98",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/160803/1269664781_637iaeglbji83ac9gahde8db9369j_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 23,
+        "title": "休闲鞋 明星小白鞋 英伦风 厚底 男士",
+        "cfav": 564,
+        "price": "￥56.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201716127,
+        "titleTags": "休闲鞋;明星小白鞋;英伦风;厚底;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/160803/1269664781_637iaeglbji83ac9gahde8db9369j_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲鞋",
+          "明星小白鞋",
+          "英伦风",
+          "厚底",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥99.00",
+        "acm": "3.ms.2_1_1kcydsy.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_227375093_0_3_0-c1_",
+        "iid": "1kcydsy",
+        "link": "http://item.meilishuo.com/h5/detail/1kcydsy?acm=3.ms.2_1_1kcydsy.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_227375093_0_3_0-c1_&cparam=MTQ5ODY1MDkzM18xN2UyaWJxXzBkM2UzNGNiZmNjYTNlNWY0MGM3OTNkZDZjNTBjMGZjXzE2XzJfMjI3Mzc1MDkzXzAuODM4NF8wXzNfMV8xNjdfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kcydsy?acm=3.ms.2_1_1kcydsy.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_227375093_0_3_0-c1_&cparam=MTQ5ODY1MDkzM18xN2UyaWJxXzBkM2UzNGNiZmNjYTNlNWY0MGM3OTNkZDZjNTBjMGZjXzE2XzJfMjI3Mzc1MDkzXzAuODM4NF8wXzNfMV8xNjdfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODY1MDkzM18xN2UyaWJxXzBkM2UzNGNiZmNjYTNlNWY0MGM3OTNkZDZjNTBjMGZjXzE2XzJfMjI3Mzc1MDkzXzAuODM4NF8wXzNfMV8xNjdfMF8w",
+        "itemMarks": "82",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170528_07b0ii58ialf2k562ii800bkf59fl_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "17",
+        "title": "拖鞋 防滑 懒人 复古 草编底 日系 夏季 男士",
+        "cfav": "21",
+        "price": "￥79.20",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "200649769",
+        "titleTags": "拖鞋;防滑;懒人;复古;草编底;日系;夏季;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170528_07b0ii58ialf2k562ii800bkf59fl_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "拖鞋",
+          "防滑",
+          "懒人",
+          "复古",
+          "草编底",
+          "日系",
+          "夏季",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥89.00",
+        "acm": "3.ms.2_1_1kdj6ki.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_223447431_0_4_0-c1_",
+        "iid": "1kdj6ki",
+        "link": "http://item.meilishuo.com/h5/detail/1kdj6ki?acm=3.ms.2_1_1kdj6ki.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_223447431_0_4_0-c1_&cparam=MTQ5ODY1MDkzM18xN2pjbmlrX2NhYjM2NmI1YzMzN2NlZmZhNzkyZTE0MWUzYTQ4OWM4XzE2XzNfMjIzNDQ3NDMxXzEuMzYzN18wXzRfMV80NzdfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kdj6ki?acm=3.ms.2_1_1kdj6ki.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_223447431_0_4_0-c1_&cparam=MTQ5ODY1MDkzM18xN2pjbmlrX2NhYjM2NmI1YzMzN2NlZmZhNzkyZTE0MWUzYTQ4OWM4XzE2XzNfMjIzNDQ3NDMxXzEuMzYzN18wXzRfMV80NzdfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODY1MDkzM18xN2pjbmlrX2NhYjM2NmI1YzMzN2NlZmZhNzkyZTE0MWUzYTQ4OWM4XzE2XzNfMjIzNDQ3NDMxXzEuMzYzN18wXzRfMV80NzdfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170608_1h5k0bl9gd4j582eh2el8g6k6j5kf_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "0",
+        "title": "情侣拖鞋 沙滩 时尚潮流 休闲 笑脸 夏季",
+        "cfav": "1",
+        "price": "￥89.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "1101436023",
+        "titleTags": "情侣拖鞋;沙滩;时尚潮流;休闲;笑脸;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170608_1h5k0bl9gd4j582eh2el8g6k6j5kf_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "情侣拖鞋",
+          "沙滩",
+          "时尚潮流",
+          "休闲",
+          "笑脸",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥72.50",
+        "acm": "3.ms.2_4_1kelzf0.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1kelzf0",
+        "link": "http://item.meilishuo.com/h5/detail/1kelzf0?acm=3.ms.2_4_1kelzf0.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kelzf0?acm=3.ms.2_4_1kelzf0.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_3gd0f3045cbcl2cga6bkck7230lg2_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "拖鞋 一字拖 防滑 情侣 女士 港风 夏季",
+        "cfav": 0,
+        "price": "￥72.50",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "拖鞋;一字拖;防滑;情侣;女士;港风;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170627/upload_3gd0f3045cbcl2cga6bkck7230lg2_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "拖鞋",
+          "一字拖",
+          "防滑",
+          "情侣",
+          "女士",
+          "港风",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥170.00",
+        "acm": "3.ms.2_4_1kc9tyq.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1kc9tyq",
+        "link": "http://item.meilishuo.com/h5/detail/1kc9tyq?acm=3.ms.2_4_1kc9tyq.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kc9tyq?acm=3.ms.2_4_1kc9tyq.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170516_22ccib4hegl9i7170dk8cjled6kg9_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 13,
+        "title": "休闲鞋 男鞋 男士",
+        "cfav": 57,
+        "price": "￥119.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201632692,
+        "titleTags": "休闲鞋;男鞋;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170516_22ccib4hegl9i7170dk8cjled6kg9_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲鞋",
+          "男鞋",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥85.00",
+        "acm": "3.ms.2_4_1kem00g.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1kem00g",
+        "link": "http://item.meilishuo.com/h5/detail/1kem00g?acm=3.ms.2_4_1kem00g.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kem00g?acm=3.ms.2_4_1kem00g.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170628/upload_09h43e3ic27kh506dii8abc7chg86_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲鞋 布鞋 贝壳头 百搭 原宿",
+        "cfav": 0,
+        "price": "￥85.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲鞋;布鞋;贝壳头;百搭;原宿",
+        "showLarge": {
+          "img": "http://s11.mogucdn.com/p2/170628/upload_09h43e3ic27kh506dii8abc7chg86_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲鞋",
+          "布鞋",
+          "贝壳头",
+          "百搭",
+          "原宿"
+        ]
+      },
+      {
+        "orgPrice": "￥184.29",
+        "acm": "3.ms.2_4_1h3y6ao.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1h3y6ao",
+        "link": "http://item.meilishuo.com/h5/detail/1h3y6ao?acm=3.ms.2_4_1h3y6ao.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h3y6ao?acm=3.ms.2_4_1h3y6ao.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "98",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170111/925499728_59b4hfhl5608llladk81fjge7d47f_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 14,
+        "title": "休闲鞋 流行男鞋 低帮 透气 真皮 运动 男士 韩版",
+        "cfav": 343,
+        "price": "￥129.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201639058,
+        "titleTags": "休闲鞋;流行男鞋;低帮;透气;真皮;运动;男士;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170111/925499728_59b4hfhl5608llladk81fjge7d47f_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲鞋",
+          "流行男鞋",
+          "低帮",
+          "透气",
+          "真皮",
+          "运动",
+          "男士",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥87.50",
+        "acm": "3.ms.2_4_1k9es84.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1k9es84",
+        "link": "http://item.meilishuo.com/h5/detail/1k9es84?acm=3.ms.2_4_1k9es84.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k9es84?acm=3.ms.2_4_1k9es84.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170401/upload_0l3ll72d60kjdfb52e33kc30khfd8_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 21,
+        "title": "休闲鞋 男鞋 潮流 夏款 黑白 男士 韩版",
+        "cfav": 321,
+        "price": "￥87.50",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲鞋;男鞋;潮流;夏款;黑白;男士;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170401/upload_0l3ll72d60kjdfb52e33kc30khfd8_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "休闲鞋",
+          "男鞋",
+          "潮流",
+          "夏款",
+          "黑白",
+          "男士",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥84.00",
+        "acm": "3.ms.2_4_1h4jki0.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1h4jki0",
+        "link": "http://item.meilishuo.com/h5/detail/1h4jki0?acm=3.ms.2_4_1h4jki0.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h4jki0?acm=3.ms.2_4_1h4jki0.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "98",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170215/1328867123_1l5k354ce8jed53b46hbi1g38ib8e_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 20,
+        "title": "帆布鞋 低帮 情侣 春季 男士 韩版",
+        "cfav": 110,
+        "price": "￥58.80",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201720143,
+        "titleTags": "帆布鞋;低帮;情侣;春季;男士;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170215/1328867123_1l5k354ce8jed53b46hbi1g38ib8e_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "帆布鞋",
+          "低帮",
+          "情侣",
+          "春季",
+          "男士",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥38.75",
+        "acm": "3.ms.2_4_1kem2mc.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1kem2mc",
+        "link": "http://item.meilishuo.com/h5/detail/1kem2mc?acm=3.ms.2_4_1kem2mc.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kem2mc?acm=3.ms.2_4_1kem2mc.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170628/upload_75hkgl1k6733fl97gidgcje0l8k57_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "夏季拖鞋",
+        "cfav": 0,
+        "price": "￥38.75",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "夏季拖鞋",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170628/upload_75hkgl1k6733fl97gidgcje0l8k57_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "夏季拖鞋"
+        ]
+      },
+      {
+        "orgPrice": "￥15.90",
+        "acm": "3.ms.2_4_1kbahsw.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1kbahsw",
+        "link": "http://item.meilishuo.com/h5/detail/1kbahsw?acm=3.ms.2_4_1kbahsw.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kbahsw?acm=3.ms.2_4_1kbahsw.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170430_3k9k580h4c5k87g16j1699762khc2_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 170,
+        "title": "拖鞋 人字拖 沙滩 防滑 情侣 休闲 平底 纯色 韩版",
+        "cfav": 16,
+        "price": "￥15.90",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 11039411,
+        "titleTags": "拖鞋;人字拖;沙滩;防滑;情侣;休闲;平底;纯色;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170430_3k9k580h4c5k87g16j1699762khc2_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "拖鞋",
+          "人字拖",
+          "沙滩",
+          "防滑",
+          "情侣",
+          "休闲",
+          "平底",
+          "纯色",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥140.00",
+        "acm": "3.ms.2_1_1ke0sag.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_227883114_0_5_0-c1_",
+        "iid": "1ke0sag",
+        "link": "http://item.meilishuo.com/h5/detail/1ke0sag?acm=3.ms.2_1_1ke0sag.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_227883114_0_5_0-c1_&cparam=MTQ5ODY1MDkzM18xN2UzNm1tX2I1Y2I5ZTBmMzdjNjAwNTA3MDI1MTFkMmVjNDQ0MTFmXzE2XzRfMjI3ODgzMTE0XzAuNzA5MV8wXzVfMV8zMzVfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1ke0sag?acm=3.ms.2_1_1ke0sag.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_227883114_0_5_0-c1_&cparam=MTQ5ODY1MDkzM18xN2UzNm1tX2I1Y2I5ZTBmMzdjNjAwNTA3MDI1MTFkMmVjNDQ0MTFmXzE2XzRfMjI3ODgzMTE0XzAuNzA5MV8wXzVfMV8zMzVfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODY1MDkzM18xN2UzNm1tX2I1Y2I5ZTBmMzdjNjAwNTA3MDI1MTFkMmVjNDQ0MTFmXzE2XzRfMjI3ODgzMTE0XzAuNzA5MV8wXzVfMV8zMzVfMF8w",
+        "itemMarks": "114",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170616_1gb8i0ibb32271f5f6132i60ba368_2298x3024.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "2",
+        "title": "凉鞋 魔术贴拖鞋 新款 韩版 男士",
+        "cfav": "3",
+        "price": "￥98.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "1201632876",
+        "titleTags": "凉鞋;魔术贴拖鞋;新款;韩版;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170616_1gb8i0ibb32271f5f6132i60ba368_2298x3024.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "凉鞋",
+          "魔术贴拖鞋",
+          "新款",
+          "韩版",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥89.00",
+        "acm": "3.ms.2_1_1kdj9u2.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_223463179_0_6_0-c1_",
+        "iid": "1kdj9u2",
+        "link": "http://item.meilishuo.com/h5/detail/1kdj9u2?acm=3.ms.2_1_1kdj9u2.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_223463179_0_6_0-c1_&cparam=MTQ5ODY1MDkzM18xMWtfZGYyMDg2NjkxZDgyY2U3ZTMxNTE0OTI4NTRiZGRmOGRfMTZfNV8yMjM0NjMxNzlfMF8wXzZfMV80NzdfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kdj9u2?acm=3.ms.2_1_1kdj9u2.1.5865-25176.gcxrYqnQmArLe.t_0-lc_16-c_1_16_223463179_0_6_0-c1_&cparam=MTQ5ODY1MDkzM18xMWtfZGYyMDg2NjkxZDgyY2U3ZTMxNTE0OTI4NTRiZGRmOGRfMTZfNV8yMjM0NjMxNzlfMF8wXzZfMV80NzdfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODY1MDkzM18xMWtfZGYyMDg2NjkxZDgyY2U3ZTMxNTE0OTI4NTRiZGRmOGRfMTZfNV8yMjM0NjMxNzlfMF8wXzZfMV80NzdfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170608_5ig2kbhglhh4350l50ddl8f93c185_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "0",
+        "title": "情侣拖鞋 沙滩 时尚潮流 休闲 笑脸 夏季",
+        "cfav": "7",
+        "price": "￥89.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "1101436023",
+        "titleTags": "情侣拖鞋;沙滩;时尚潮流;休闲;笑脸;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170608_5ig2kbhglhh4350l50ddl8f93c185_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "情侣拖鞋",
+          "沙滩",
+          "时尚潮流",
+          "休闲",
+          "笑脸",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥184.29",
+        "acm": "3.ms.2_4_1h5dq72.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1h5dq72",
+        "link": "http://item.meilishuo.com/h5/detail/1h5dq72?acm=3.ms.2_4_1h5dq72.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h5dq72?acm=3.ms.2_4_1h5dq72.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170223/925499728_6iijb72e682llflaa6hjle3e242h7_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 10,
+        "title": "休闲鞋 驾车豆豆鞋 英伦 轻便 真皮 时尚 男士",
+        "cfav": 189,
+        "price": "￥129.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201639058,
+        "titleTags": "休闲鞋;驾车豆豆鞋;英伦;轻便;真皮;时尚;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170223/925499728_6iijb72e682llflaa6hjle3e242h7_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲鞋",
+          "驾车豆豆鞋",
+          "英伦",
+          "轻便",
+          "真皮",
+          "时尚",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥94.29",
+        "acm": "3.ms.2_4_1gklsva.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1gklsva",
+        "link": "http://item.meilishuo.com/h5/detail/1gklsva?acm=3.ms.2_4_1gklsva.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1gklsva?acm=3.ms.2_4_1gklsva.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "98",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p1/160624/1269664781_ifqtinjrmeytqojvhezdambqgyyde_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 53,
+        "title": "休闲鞋 明星小白鞋 男士 韩版",
+        "cfav": 933,
+        "price": "￥66.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201716127,
+        "titleTags": "休闲鞋;明星小白鞋;男士;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p1/160624/1269664781_ifqtinjrmeytqojvhezdambqgyyde_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲鞋",
+          "明星小白鞋",
+          "男士",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥98.00",
+        "acm": "3.ms.2_4_1gk4e2i.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1gk4e2i",
+        "link": "http://item.meilishuo.com/h5/detail/1gk4e2i?acm=3.ms.2_4_1gk4e2i.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1gk4e2i?acm=3.ms.2_4_1gk4e2i.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "98",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p1/160607/1328867123_ifrwmm3cgi2gembqhezdambqhayde_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 10,
+        "title": "拖鞋凉拖 防滑 男生 休闲 时尚 韩版",
+        "cfav": 74,
+        "price": "￥58.80",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201720143,
+        "titleTags": "拖鞋凉拖;防滑;男生;休闲;时尚;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p1/160607/1328867123_ifrwmm3cgi2gembqhezdambqhayde_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "拖鞋凉拖",
+          "防滑",
+          "男生",
+          "休闲",
+          "时尚",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥238.00",
+        "acm": "3.ms.2_4_1kblg22.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1kblg22",
+        "link": "http://item.meilishuo.com/h5/detail/1kblg22?acm=3.ms.2_4_1kblg22.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kblg22?acm=3.ms.2_4_1kblg22.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170505_8akd817clia5kd5c3e320514i7gek_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 30,
+        "title": "休闲鞋子 透气 百搭 学院风 男士 韩版",
+        "cfav": 30,
+        "price": "￥119.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201656543,
+        "titleTags": "休闲鞋子;透气;百搭;学院风;男士;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170505_8akd817clia5kd5c3e320514i7gek_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲鞋子",
+          "透气",
+          "百搭",
+          "学院风",
+          "男士",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥70.00",
+        "acm": "3.ms.2_4_1k1nay8.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1k1nay8",
+        "link": "http://item.meilishuo.com/h5/detail/1k1nay8?acm=3.ms.2_4_1k1nay8.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k1nay8?acm=3.ms.2_4_1k1nay8.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/161205/96947022_8248igaeld8f720f92jiac6l1c33g_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 968,
+        "title": "休闲鞋 休闲皮鞋 系带 白色 百搭 男士 韩版",
+        "cfav": 383,
+        "price": "￥49.00",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 20269204,
+        "titleTags": "休闲鞋;休闲皮鞋;系带;白色;百搭;男士;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/161205/96947022_8248igaeld8f720f92jiac6l1c33g_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲鞋",
+          "休闲皮鞋",
+          "系带",
+          "白色",
+          "百搭",
+          "男士",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥226.00",
+        "acm": "3.ms.2_4_1h6gpna.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "iid": "1h6gpna",
+        "link": "http://item.meilishuo.com/h5/detail/1h6gpna?acm=3.ms.2_4_1h6gpna.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h6gpna?acm=3.ms.2_4_1h6gpna.0.24477-25176.gcxrYqnQmArLe.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170316_492a9l82ifhbklae3e1iaja21al8f_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 10,
+        "title": "休闲鞋 英伦板鞋 潮流 真皮 男士 韩版",
+        "cfav": 260,
+        "price": "￥158.20",
+        "ptpC": "_mb_mls_10057210_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201716127,
+        "titleTags": "休闲鞋;英伦板鞋;潮流;真皮;男士;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170316_492a9l82ifhbklae3e1iaja21al8f_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲鞋",
+          "英伦板鞋",
+          "潮流",
+          "真皮",
+          "男士",
+          "韩版"
+        ]
+      }
+    ],
+    "ptpPartC": "_mb_mls_10057210_wap-cate_noab-noab",
+    "filter": {
+      "title": "wap类目图墙",
+      "list": [
+        {
+          "title": "综合",
+          "sort": "pop",
+          "style": null,
+          "fcid": "10057210",
+          "type": "sort"
+        },
+        {
+          "title": "销量",
+          "sort": "sell",
+          "style": null,
+          "fcid": "10057210",
+          "type": "sort"
+        },
+        {
+          "title": "最新",
+          "sort": "new",
+          "style": null,
+          "fcid": "10057210",
+          "type": "sort"
+        }
+      ]
+    }
+  }
+}

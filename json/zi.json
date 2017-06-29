@@ -1,0 +1,1615 @@
+{
+  "success": true,
+  "returnCode": "1001",
+  "returnMessage": null,
+  "data": {
+    "total": 8838,
+    "title": "wap类目图墙",
+    "sort": "pop",
+    "isEnd": false,
+    "cpc_offset": 0,
+    "param": {
+      "_mgjuuid": "f2ddc74d-8392-48a9-b097-bce2628dd09b",
+      "sort": "pop",
+      "ptpWallCpc": "_wall_cpc",
+      "section": "0",
+      "ptpWallDoc": "_wall_docs",
+      "cpc_offset": 0,
+      "eventId": 70003,
+      "cKey": "wap-cate",
+      "page": "1",
+      "fcid": "10057206",
+      "cpcEventId": 700015,
+      "ptpPartC": "_mb_mls_10057206_wap-cate_noab-noab",
+      "minPrice": "5"
+    },
+    "page": 1,
+    "list": [
+      {
+        "orgPrice": "￥75.00",
+        "acm": "3.ms.2_4_1keitvo.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1keitvo",
+        "link": "http://item.meilishuo.com/h5/detail/1keitvo?acm=3.ms.2_4_1keitvo.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keitvo?acm=3.ms.2_4_1keitvo.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170623/upload_708i65hg00ac77if3cbgkij172lg6_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 沙滩裤 亚麻 日系 原创 棉麻 原宿风 韩版",
+        "cfav": 328,
+        "price": "￥75.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;沙滩裤;亚麻;日系;原创;棉麻;原宿风;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170623/upload_708i65hg00ac77if3cbgkij172lg6_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "沙滩裤",
+          "亚麻",
+          "日系",
+          "原创",
+          "棉麻",
+          "原宿风",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥56.25",
+        "acm": "3.ms.2_4_1kebg82.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kebg82",
+        "link": "http://item.meilishuo.com/h5/detail/1kebg82?acm=3.ms.2_4_1kebg82.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kebg82?acm=3.ms.2_4_1kebg82.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170622/upload_115cb6i1d3k5e5i41jcb7f8l249dg_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 33,
+        "title": "休闲裤 五分中裤 个性 拼接 撞色 韩版",
+        "cfav": 145,
+        "price": "￥56.25",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;五分中裤;个性;拼接;撞色;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170622/upload_115cb6i1d3k5e5i41jcb7f8l249dg_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "五分中裤",
+          "个性",
+          "拼接",
+          "撞色",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥68.75",
+        "acm": "3.ms.2_4_1kem4ay.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kem4ay",
+        "link": "http://item.meilishuo.com/h5/detail/1kem4ay?acm=3.ms.2_4_1kem4ay.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kem4ay?acm=3.ms.2_4_1kem4ay.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170612_1jdlhh8j954lbf0dccja67c74a92b_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 韩版沙滩裤 修身 纯色 休闲 男士 夏季",
+        "cfav": 0,
+        "price": "￥68.75",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;韩版沙滩裤;修身;纯色;休闲;男士;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170612_1jdlhh8j954lbf0dccja67c74a92b_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "韩版沙滩裤",
+          "修身",
+          "纯色",
+          "休闲",
+          "男士",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥68.75",
+        "acm": "3.ms.2_4_1kelumo.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kelumo",
+        "link": "http://item.meilishuo.com/h5/detail/1kelumo?acm=3.ms.2_4_1kelumo.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kelumo?acm=3.ms.2_4_1kelumo.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170628/upload_5k00ld3lhekfdb87f9blgdc036ief_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 工装裤 大码 时尚 男士",
+        "cfav": 0,
+        "price": "￥68.75",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;工装裤;大码;时尚;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170628/upload_5k00ld3lhekfdb87f9blgdc036ief_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "工装裤",
+          "大码",
+          "时尚",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥145.00",
+        "acm": "3.ms.2_1_1kch6pm.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_227375041_0_1_0-c1_",
+        "iid": "1kch6pm",
+        "link": "http://item.meilishuo.com/h5/detail/1kch6pm?acm=3.ms.2_1_1kch6pm.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_227375041_0_1_0-c1_&cparam=MTQ5ODY1MDgwM18xN2RoOXE2XzAyZDIzODQxNTY3YmFmMmE3MTVlNmRhMjRlZTkyMGNiXzE2XzBfMjI3Mzc1MDQxXzAuNzE3OV8wXzFfMV8xNjdfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kch6pm?acm=3.ms.2_1_1kch6pm.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_227375041_0_1_0-c1_&cparam=MTQ5ODY1MDgwM18xN2RoOXE2XzAyZDIzODQxNTY3YmFmMmE3MTVlNmRhMjRlZTkyMGNiXzE2XzBfMjI3Mzc1MDQxXzAuNzE3OV8wXzFfMV8xNjdfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODY1MDgwM18xN2RoOXE2XzAyZDIzODQxNTY3YmFmMmE3MTVlNmRhMjRlZTkyMGNiXzE2XzBfMjI3Mzc1MDQxXzAuNzE3OV8wXzFfMV8xNjdfMF8w",
+        "itemMarks": "82",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170520_05268cajj0el99l4lbc7clf7k8db7_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "23",
+        "title": "休闲裤 男裤 个性 宽松 羽毛印花 情侣款 男士 夏季",
+        "cfav": "50",
+        "price": "￥116.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "200649769",
+        "titleTags": "休闲裤;男裤;个性;宽松;羽毛印花;情侣款;男士;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170520_05268cajj0el99l4lbc7clf7k8db7_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "男裤",
+          "个性",
+          "宽松",
+          "羽毛印花",
+          "情侣款",
+          "男士",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥98.00",
+        "acm": "3.ms.2_1_1kdh04w.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_222951971_0_2_0-c1_",
+        "iid": "1kdh04w",
+        "link": "http://item.meilishuo.com/h5/detail/1kdh04w?acm=3.ms.2_1_1kdh04w.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_222951971_0_2_0-c1_&cparam=MTQ5ODY1MDgwM18xN2pja200X2U1YzYyMmM3Zjc1YWNkNWU1NjJjMDM1ZDRmMTJhMTBlXzE2XzFfMjIyOTUxOTcxXzAuODEwNV8wXzJfMV82OTRfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kdh04w?acm=3.ms.2_1_1kdh04w.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_222951971_0_2_0-c1_&cparam=MTQ5ODY1MDgwM18xN2pja200X2U1YzYyMmM3Zjc1YWNkNWU1NjJjMDM1ZDRmMTJhMTBlXzE2XzFfMjIyOTUxOTcxXzAuODEwNV8wXzJfMV82OTRfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODY1MDgwM18xN2pja200X2U1YzYyMmM3Zjc1YWNkNWU1NjJjMDM1ZDRmMTJhMTBlXzE2XzFfMjIyOTUxOTcxXzAuODEwNV8wXzJfMV82OTRfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170607_2hf7749hi257a818iih8ald5fa3ig_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "15",
+        "title": "休闲裤 休闲五分裤 薄款 商务 纯色 男士 夏季 新款",
+        "cfav": "26",
+        "price": "￥98.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "1201628136",
+        "titleTags": "休闲裤;休闲五分裤;薄款;商务;纯色;男士;夏季;新款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170607_2hf7749hi257a818iih8ald5fa3ig_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "休闲五分裤",
+          "薄款",
+          "商务",
+          "纯色",
+          "男士",
+          "夏季",
+          "新款"
+        ]
+      },
+      {
+        "orgPrice": "￥62.50",
+        "acm": "3.ms.2_4_1kelup0.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kelup0",
+        "link": "http://item.meilishuo.com/h5/detail/1kelup0?acm=3.ms.2_4_1kelup0.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kelup0?acm=3.ms.2_4_1kelup0.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170619_8fljl20bjja90hielc7g9ca9efi8h_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 五分裤 日系 加大码 撞色 夏季 新款",
+        "cfav": 0,
+        "price": "￥62.50",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;五分裤;日系;加大码;撞色;夏季;新款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170619_8fljl20bjja90hielc7g9ca9efi8h_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "五分裤",
+          "日系",
+          "加大码",
+          "撞色",
+          "夏季",
+          "新款"
+        ]
+      },
+      {
+        "orgPrice": "￥62.50",
+        "acm": "3.ms.2_4_1keluzm.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1keluzm",
+        "link": "http://item.meilishuo.com/h5/detail/1keluzm?acm=3.ms.2_4_1keluzm.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keluzm?acm=3.ms.2_4_1keluzm.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170613_7hkkleia3g2gbedi12k5f1b6017d0_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 修身中裤 潮流 休闲 百搭 夏季 韩版",
+        "cfav": 0,
+        "price": "￥62.50",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;修身中裤;潮流;休闲;百搭;夏季;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170613_7hkkleia3g2gbedi12k5f1b6017d0_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "修身中裤",
+          "潮流",
+          "休闲",
+          "百搭",
+          "夏季",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥50.00",
+        "acm": "3.ms.2_4_1kcty42.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kcty42",
+        "link": "http://item.meilishuo.com/h5/detail/1kcty42?acm=3.ms.2_4_1kcty42.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kcty42?acm=3.ms.2_4_1kcty42.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170526/upload_3l40l1f966eh3c983jie3h2049i4i_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 107,
+        "title": "休闲裤 纯色沙滩裤 休闲 宽松大码 男士 夏季 韩版",
+        "cfav": 594,
+        "price": "￥50.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;纯色沙滩裤;休闲;宽松大码;男士;夏季;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170526/upload_3l40l1f966eh3c983jie3h2049i4i_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "纯色沙滩裤",
+          "休闲",
+          "宽松大码",
+          "男士",
+          "夏季",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥68.75",
+        "acm": "3.ms.2_4_1kc0t0q.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kc0t0q",
+        "link": "http://item.meilishuo.com/h5/detail/1kc0t0q?acm=3.ms.2_4_1kc0t0q.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kc0t0q?acm=3.ms.2_4_1kc0t0q.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170512/upload_32dfhi36id2d6fe9k7lh19h55fg4a_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 17,
+        "title": "宽松休闲裤 港风 男士 韩版",
+        "cfav": 535,
+        "price": "￥68.75",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "宽松休闲裤;港风;男士;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170512/upload_32dfhi36id2d6fe9k7lh19h55fg4a_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "宽松休闲裤",
+          "港风",
+          "男士",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥68.75",
+        "acm": "3.ms.2_4_1kelv8q.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kelv8q",
+        "link": "http://item.meilishuo.com/h5/detail/1kelv8q?acm=3.ms.2_4_1kelv8q.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kelv8q?acm=3.ms.2_4_1kelv8q.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_25di9ehael5echa85f1l9lil1egk6_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 五分裤 港风 宽松 复古",
+        "cfav": 0,
+        "price": "￥68.75",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;五分裤;港风;宽松;复古",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170627/upload_25di9ehael5echa85f1l9lil1egk6_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "五分裤",
+          "港风",
+          "宽松",
+          "复古"
+        ]
+      },
+      {
+        "orgPrice": "￥66.00",
+        "acm": "3.ms.2_4_18okibk.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "18okibk",
+        "link": "http://item.meilishuo.com/h5/detail/18okibk?acm=3.ms.2_4_18okibk.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/18okibk?acm=3.ms.2_4_18okibk.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p1/160416/140035687_ifqwkn3bmeyginlgg4zdambqgyyde_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 2567,
+        "title": "休闲裤 棉麻五分裤 沙滩 糖果色 男士",
+        "cfav": 726,
+        "price": "￥46.20",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 22334962,
+        "titleTags": "休闲裤;棉麻五分裤;沙滩;糖果色;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p1/160416/140035687_ifqwkn3bmeyginlgg4zdambqgyyde_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲裤",
+          "棉麻五分裤",
+          "沙滩",
+          "糖果色",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥75.00",
+        "acm": "3.ms.2_4_1kelvk0.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kelvk0",
+        "link": "http://item.meilishuo.com/h5/detail/1kelvk0?acm=3.ms.2_4_1kelvk0.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kelvk0?acm=3.ms.2_4_1kelvk0.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_53g99adkijg6e950ccfjff7g7e59j_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 沙滩裤 流行 百搭 时尚 男士",
+        "cfav": 0,
+        "price": "￥75.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;沙滩裤;流行;百搭;时尚;男士",
+        "showLarge": {
+          "img": "http://s11.mogucdn.com/p2/170627/upload_53g99adkijg6e950ccfjff7g7e59j_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "沙滩裤",
+          "流行",
+          "百搭",
+          "时尚",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥70.00",
+        "acm": "3.ms.2_4_1ka2rom.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1ka2rom",
+        "link": "http://item.meilishuo.com/h5/detail/1ka2rom?acm=3.ms.2_4_1ka2rom.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1ka2rom?acm=3.ms.2_4_1ka2rom.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170412_56157acfe4fdbjf9cgeg9ldafcb32_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 1910,
+        "title": "休闲裤 休闲沙滩裤 男生 日系 潮牌 破洞 印花 男士 夏季 韩版",
+        "cfav": 204,
+        "price": "￥49.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 20586794,
+        "titleTags": "休闲裤;休闲沙滩裤;男生;日系;潮牌;破洞;印花;男士;夏季;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170412_56157acfe4fdbjf9cgeg9ldafcb32_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲裤",
+          "休闲沙滩裤",
+          "男生",
+          "日系",
+          "潮牌",
+          "破洞",
+          "印花",
+          "男士",
+          "夏季",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥140.00",
+        "acm": "3.ms.2_1_1ke0r0s.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_227881234_0_3_0-c1_",
+        "iid": "1ke0r0s",
+        "link": "http://item.meilishuo.com/h5/detail/1ke0r0s?acm=3.ms.2_1_1ke0r0s.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_227881234_0_3_0-c1_&cparam=MTQ5ODY1MDgwM18xN2g2endhXzE0YjBjOGZhYjliMmZhZGQ1ODE5ZDU3ZjcxZDAzYmMwXzE2XzJfMjI3ODgxMjM0XzAuOTk3XzBfM18xXzMzNV8wXzA=",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1ke0r0s?acm=3.ms.2_1_1ke0r0s.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_227881234_0_3_0-c1_&cparam=MTQ5ODY1MDgwM18xN2g2endhXzE0YjBjOGZhYjliMmZhZGQ1ODE5ZDU3ZjcxZDAzYmMwXzE2XzJfMjI3ODgxMjM0XzAuOTk3XzBfM18xXzMzNV8wXzA=",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODY1MDgwM18xN2g2endhXzE0YjBjOGZhYjliMmZhZGQ1ODE5ZDU3ZjcxZDAzYmMwXzE2XzJfMjI3ODgxMjM0XzAuOTk3XzBfM18xXzMzNV8wXzA=",
+        "itemMarks": "114",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170616_3c085kbgd60kh5flal7c85i5ec5h8_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "4",
+        "title": "休闲裤 沙滩裤 修身显瘦 男士 韩版 新款",
+        "cfav": "11",
+        "price": "￥98.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "1201632876",
+        "titleTags": "休闲裤;沙滩裤;修身显瘦;男士;韩版;新款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170616_3c085kbgd60kh5flal7c85i5ec5h8_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "沙滩裤",
+          "修身显瘦",
+          "男士",
+          "韩版",
+          "新款"
+        ]
+      },
+      {
+        "orgPrice": "￥140.00",
+        "acm": "3.ms.2_1_1kdtvke.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_226071553_0_4_0-c1_",
+        "iid": "1kdtvke",
+        "link": "http://item.meilishuo.com/h5/detail/1kdtvke?acm=3.ms.2_1_1kdtvke.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_226071553_0_4_0-c1_&cparam=MTQ5ODY1MDgwM18xN2tuZXlzX2VlYzFiMmYzMjFjYWYwZTNjZWIwMzg1NDc0MzNmN2MwXzE2XzNfMjI2MDcxNTUzXzAuMjA0MV8wXzRfMV82NzVfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kdtvke?acm=3.ms.2_1_1kdtvke.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_226071553_0_4_0-c1_&cparam=MTQ5ODY1MDgwM18xN2tuZXlzX2VlYzFiMmYzMjFjYWYwZTNjZWIwMzg1NDc0MzNmN2MwXzE2XzNfMjI2MDcxNTUzXzAuMjA0MV8wXzRfMV82NzVfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODY1MDgwM18xN2tuZXlzX2VlYzFiMmYzMjFjYWYwZTNjZWIwMzg1NDc0MzNmN2MwXzE2XzNfMjI2MDcxNTUzXzAuMjA0MV8wXzRfMV82NzVfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170613_24l1dhaal61bkdbg4dag5k3cj9hkc_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "12",
+        "title": "休闲裤 沙滩裤 大码 男士 韩版",
+        "cfav": "16",
+        "price": "￥98.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "1201551243",
+        "titleTags": "休闲裤;沙滩裤;大码;男士;韩版",
+        "showLarge": {
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170613_24l1dhaal61bkdbg4dag5k3cj9hkc_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "沙滩裤",
+          "大码",
+          "男士",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥75.00",
+        "acm": "3.ms.2_4_1kelvog.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kelvog",
+        "link": "http://item.meilishuo.com/h5/detail/1kelvog?acm=3.ms.2_4_1kelvog.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kelvog?acm=3.ms.2_4_1kelvog.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170619_5j2f95cefg2321akldljli3bcd8lk_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 五分裤 男生 宽松 夏季 韩版",
+        "cfav": 0,
+        "price": "￥75.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;五分裤;男生;宽松;夏季;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170619_5j2f95cefg2321akldljli3bcd8lk_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "五分裤",
+          "男生",
+          "宽松",
+          "夏季",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥75.00",
+        "acm": "3.ms.2_4_1kelwlg.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kelwlg",
+        "link": "http://item.meilishuo.com/h5/detail/1kelwlg?acm=3.ms.2_4_1kelwlg.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kelwlg?acm=3.ms.2_4_1kelwlg.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170628/upload_36c32ec52l3889ie12kb2746097bc_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 休闲五分裤 潮流 速干 宽松 透气 男士 韩版",
+        "cfav": 0,
+        "price": "￥75.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;休闲五分裤;潮流;速干;宽松;透气;男士;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170628/upload_36c32ec52l3889ie12kb2746097bc_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "休闲五分裤",
+          "潮流",
+          "速干",
+          "宽松",
+          "透气",
+          "男士",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥87.50",
+        "acm": "3.ms.2_4_1kelwm8.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kelwm8",
+        "link": "http://item.meilishuo.com/h5/detail/1kelwm8?acm=3.ms.2_4_1kelwm8.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kelwm8?acm=3.ms.2_4_1kelwm8.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170613_896k9c0e6eh71j1219741dh7983f8_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "牛仔裤 牛仔短裤 男生 复古 宽松 男士 韩版",
+        "cfav": 0,
+        "price": "￥87.50",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "牛仔裤;牛仔短裤;男生;复古;宽松;男士;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170613_896k9c0e6eh71j1219741dh7983f8_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "牛仔裤",
+          "牛仔短裤",
+          "男生",
+          "复古",
+          "宽松",
+          "男士",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥68.75",
+        "acm": "3.ms.2_4_1kelwz8.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kelwz8",
+        "link": "http://item.meilishuo.com/h5/detail/1kelwz8?acm=3.ms.2_4_1kelwz8.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kelwz8?acm=3.ms.2_4_1kelwz8.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170628/upload_0430d9i0h5c68i9j0dh7hd9h7eclc_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 工装裤 日系 港风",
+        "cfav": 0,
+        "price": "￥68.75",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;工装裤;日系;港风",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170628/upload_0430d9i0h5c68i9j0dh7hd9h7eclc_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "工装裤",
+          "日系",
+          "港风"
+        ]
+      },
+      {
+        "orgPrice": "￥50.00",
+        "acm": "3.ms.2_4_1kcroz6.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kcroz6",
+        "link": "http://item.meilishuo.com/h5/detail/1kcroz6?acm=3.ms.2_4_1kcroz6.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kcroz6?acm=3.ms.2_4_1kcroz6.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170525/upload_00d13jbe8kk3j46d03fd0779c9ai0_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 49,
+        "title": "休闲裤 薄款沙滩裤 百搭 男士 夏季",
+        "cfav": 330,
+        "price": "￥50.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;薄款沙滩裤;百搭;男士;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170525/upload_00d13jbe8kk3j46d03fd0779c9ai0_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "薄款沙滩裤",
+          "百搭",
+          "男士",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥86.25",
+        "acm": "3.ms.2_4_1kcf6bq.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kcf6bq",
+        "link": "http://item.meilishuo.com/h5/detail/1kcf6bq?acm=3.ms.2_4_1kcf6bq.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kcf6bq?acm=3.ms.2_4_1kcf6bq.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170518/upload_2ibkgbd9k7e8ii118ihk466ligdjd_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 11,
+        "title": "休闲裤 沙滩裤中裤 日系 纯棉 百搭 字母 男士 夏季",
+        "cfav": 436,
+        "price": "￥86.25",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;沙滩裤中裤;日系;纯棉;百搭;字母;男士;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170518/upload_2ibkgbd9k7e8ii118ihk466ligdjd_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "沙滩裤中裤",
+          "日系",
+          "纯棉",
+          "百搭",
+          "字母",
+          "男士",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥78.75",
+        "acm": "3.ms.2_4_1kely2q.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kely2q",
+        "link": "http://item.meilishuo.com/h5/detail/1kely2q?acm=3.ms.2_4_1kely2q.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kely2q?acm=3.ms.2_4_1kely2q.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170612_078759j10943l0h5603k53g0b8g41_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 薄款短裤 港风 迷彩 两面穿 男士",
+        "cfav": 0,
+        "price": "￥78.75",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;薄款短裤;港风;迷彩;两面穿;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170612_078759j10943l0h5603k53g0b8g41_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "薄款短裤",
+          "港风",
+          "迷彩",
+          "两面穿",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥68.75",
+        "acm": "3.ms.2_4_1kelycc.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kelycc",
+        "link": "http://item.meilishuo.com/h5/detail/1kelycc?acm=3.ms.2_4_1kelycc.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kelycc?acm=3.ms.2_4_1kelycc.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170612_0049241bdbegk0g09gad711afa9gh_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 日系短裤 棉麻 沙滩 男士",
+        "cfav": 0,
+        "price": "￥68.75",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;日系短裤;棉麻;沙滩;男士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170612_0049241bdbegk0g09gad711afa9gh_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "日系短裤",
+          "棉麻",
+          "沙滩",
+          "男士"
+        ]
+      },
+      {
+        "orgPrice": "￥82.86",
+        "acm": "3.ms.2_1_1kb440w.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_228973990_0_5_0-c1_",
+        "iid": "1kb440w",
+        "link": "http://item.meilishuo.com/h5/detail/1kb440w?acm=3.ms.2_1_1kb440w.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_228973990_0_5_0-c1_&cparam=MTQ5ODY1MDgwM18xNzRtbXhlX2QzOGViZDZlM2VkYjI0YzAzYWM0MGI4MjI2NDhlYzM0XzE2XzRfMjI4OTczOTkwXzYuMjA2N18wXzVfMV8xMjJfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kb440w?acm=3.ms.2_1_1kb440w.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_228973990_0_5_0-c1_&cparam=MTQ5ODY1MDgwM18xNzRtbXhlX2QzOGViZDZlM2VkYjI0YzAzYWM0MGI4MjI2NDhlYzM0XzE2XzRfMjI4OTczOTkwXzYuMjA2N18wXzVfMV8xMjJfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODY1MDgwM18xNzRtbXhlX2QzOGViZDZlM2VkYjI0YzAzYWM0MGI4MjI2NDhlYzM0XzE2XzRfMjI4OTczOTkwXzYuMjA2N18wXzVfMV8xMjJfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170427_7ihb90d6ccil8k59kf78b6228dbdc_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "3",
+        "title": "休闲裤 休闲五分裤 港风 休闲 宽松 夏季 韩版",
+        "cfav": "23",
+        "price": "￥82.86",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "200561714",
+        "titleTags": "休闲裤;休闲五分裤;港风;休闲;宽松;夏季;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170427_7ihb90d6ccil8k59kf78b6228dbdc_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "休闲五分裤",
+          "港风",
+          "休闲",
+          "宽松",
+          "夏季",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥140.00",
+        "acm": "3.ms.2_1_1kckjhs.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_215518893_0_6_0-c1_",
+        "iid": "1kckjhs",
+        "link": "http://item.meilishuo.com/h5/detail/1kckjhs?acm=3.ms.2_1_1kckjhs.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_215518893_0_6_0-c1_&cparam=MTQ5ODY1MDgwM18xMWtfZWMxNTEwZGUyYTM5ZDJkNzlkODE5NzRiMjVhYmI4ZWRfMTZfNV8yMTU1MTg4OTNfMF8wXzZfMV80MjdfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kckjhs?acm=3.ms.2_1_1kckjhs.1.5865-25176.05NOQqnQm2O5l.t_0-lc_16-c_1_16_215518893_0_6_0-c1_&cparam=MTQ5ODY1MDgwM18xMWtfZWMxNTEwZGUyYTM5ZDJkNzlkODE5NzRiMjVhYmI4ZWRfMTZfNV8yMTU1MTg4OTNfMF8wXzZfMV80MjdfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODY1MDgwM18xMWtfZWMxNTEwZGUyYTM5ZDJkNzlkODE5NzRiMjVhYmI4ZWRfMTZfNV8yMTU1MTg4OTNfMF8wXzZfMV80MjdfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170521_6lk9lj8j43h7la73k54579aj757lg_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "17",
+        "title": "休闲裤 日系短裤 薄款 纯色 宽松 男士 夏季",
+        "cfav": "32",
+        "price": "￥98.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "1101451926",
+        "titleTags": "休闲裤;日系短裤;薄款;纯色;宽松;男士;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170521_6lk9lj8j43h7la73k54579aj757lg_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "日系短裤",
+          "薄款",
+          "纯色",
+          "宽松",
+          "男士",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥75.00",
+        "acm": "3.ms.2_4_1kelzc4.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kelzc4",
+        "link": "http://item.meilishuo.com/h5/detail/1kelzc4?acm=3.ms.2_4_1kelzc4.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kelzc4?acm=3.ms.2_4_1kelzc4.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170628/upload_69j28kgjcdj7fb725ial0cl7d2eii_746x1049.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 男裤 潮牌 男士 夏季",
+        "cfav": 0,
+        "price": "￥75.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;男裤;潮牌;男士;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170628/upload_69j28kgjcdj7fb725ial0cl7d2eii_746x1049.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "男裤",
+          "潮牌",
+          "男士",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥97.14",
+        "acm": "3.ms.2_4_1k9off4.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1k9off4",
+        "link": "http://item.meilishuo.com/h5/detail/1k9off4?acm=3.ms.2_4_1k9off4.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k9off4?acm=3.ms.2_4_1k9off4.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "114",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170406_8bj23667d4claj48jbial0hk1415f_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 19,
+        "title": "休闲裤 五分裤 港仔风 修身显瘦 男士 韩版 新款",
+        "cfav": 248,
+        "price": "￥67.99",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201632876,
+        "titleTags": "休闲裤;五分裤;港仔风;修身显瘦;男士;韩版;新款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170406_8bj23667d4claj48jbial0hk1415f_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲裤",
+          "五分裤",
+          "港仔风",
+          "修身显瘦",
+          "男士",
+          "韩版",
+          "新款"
+        ]
+      },
+      {
+        "orgPrice": "￥77.50",
+        "acm": "3.ms.2_4_1kem2xk.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kem2xk",
+        "link": "http://item.meilishuo.com/h5/detail/1kem2xk?acm=3.ms.2_4_1kem2xk.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kem2xk?acm=3.ms.2_4_1kem2xk.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170612_3bj9ck7e8f5d488f21gf7jb08bh46_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 篮球裤 男士 夏季",
+        "cfav": 0,
+        "price": "￥77.50",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;篮球裤;男士;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170612_3bj9ck7e8f5d488f21gf7jb08bh46_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "篮球裤",
+          "男士",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥82.86",
+        "acm": "3.ms.2_4_1k7ydh8.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1k7ydh8",
+        "link": "http://item.meilishuo.com/h5/detail/1k7ydh8?acm=3.ms.2_4_1k7ydh8.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k7ydh8?acm=3.ms.2_4_1k7ydh8.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "82 140",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170303/134563577_23cb1ak6j1l39d99g3b9hjlek6ba1_800x1200.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 956,
+        "title": "休闲裤 亚麻短裤 日系 修身 休闲 学院风 男士 韩版",
+        "cfav": 176,
+        "price": "￥58.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 22324219,
+        "titleTags": "休闲裤;亚麻短裤;日系;修身;休闲;学院风;男士;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170303/134563577_23cb1ak6j1l39d99g3b9hjlek6ba1_800x1200.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲裤",
+          "亚麻短裤",
+          "日系",
+          "修身",
+          "休闲",
+          "学院风",
+          "男士",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥68.75",
+        "acm": "3.ms.2_4_1kem16m.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kem16m",
+        "link": "http://item.meilishuo.com/h5/detail/1kem16m?acm=3.ms.2_4_1kem16m.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kem16m?acm=3.ms.2_4_1kem16m.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170628/upload_3b49jfi9kf5bgl6jee3f5736fe35l_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 系带短裤 五色 贴标",
+        "cfav": 0,
+        "price": "￥68.75",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;系带短裤;五色;贴标",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170628/upload_3b49jfi9kf5bgl6jee3f5736fe35l_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "系带短裤",
+          "五色",
+          "贴标"
+        ]
+      },
+      {
+        "orgPrice": "￥78.75",
+        "acm": "3.ms.2_4_1kem1bu.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kem1bu",
+        "link": "http://item.meilishuo.com/h5/detail/1kem1bu?acm=3.ms.2_4_1kem1bu.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kem1bu?acm=3.ms.2_4_1kem1bu.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170612_4lkfh23jhdg5hd023hid0ce02j83f_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "休闲裤 五分短裤 迷彩 水洗 休闲 磨破",
+        "cfav": 0,
+        "price": "￥78.75",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;五分短裤;迷彩;水洗;休闲;磨破",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170612_4lkfh23jhdg5hd023hid0ce02j83f_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "五分短裤",
+          "迷彩",
+          "水洗",
+          "休闲",
+          "磨破"
+        ]
+      },
+      {
+        "orgPrice": "￥56.25",
+        "acm": "3.ms.2_4_1kbr6r6.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kbr6r6",
+        "link": "http://item.meilishuo.com/h5/detail/1kbr6r6?acm=3.ms.2_4_1kbr6r6.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kbr6r6?acm=3.ms.2_4_1kbr6r6.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/p2/170508/upload_31hgblkf2hdlib76de5j7gh536ffc_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 47,
+        "title": "休闲裤 修身五分裤 百搭 韩版",
+        "cfav": 570,
+        "price": "￥56.25",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;修身五分裤;百搭;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170508/upload_31hgblkf2hdlib76de5j7gh536ffc_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "修身五分裤",
+          "百搭",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥50.00",
+        "acm": "3.ms.2_4_1kctzds.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kctzds",
+        "link": "http://item.meilishuo.com/h5/detail/1kctzds?acm=3.ms.2_4_1kctzds.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kctzds?acm=3.ms.2_4_1kctzds.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170526/upload_588j29b1kk3eaefld3l4ajk791akg_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 41,
+        "title": "休闲裤 休闲五分裤 笑脸 纯棉 百搭 韩版",
+        "cfav": 132,
+        "price": "￥50.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "休闲裤;休闲五分裤;笑脸;纯棉;百搭;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170526/upload_588j29b1kk3eaefld3l4ajk791akg_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "休闲裤",
+          "休闲五分裤",
+          "笑脸",
+          "纯棉",
+          "百搭",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥85.00",
+        "acm": "3.ms.2_4_1kem1t0.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kem1t0",
+        "link": "http://item.meilishuo.com/h5/detail/1kem1t0?acm=3.ms.2_4_1kem1t0.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kem1t0?acm=3.ms.2_4_1kem1t0.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170628/upload_48ah4d80kj2a4f52i50ekj6i3bd24_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "牛仔裤 水洗短裤 浅蓝 港风 磨破 复古 夏季",
+        "cfav": 0,
+        "price": "￥85.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "牛仔裤;水洗短裤;浅蓝;港风;磨破;复古;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170628/upload_48ah4d80kj2a4f52i50ekj6i3bd24_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "牛仔裤",
+          "水洗短裤",
+          "浅蓝",
+          "港风",
+          "磨破",
+          "复古",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥145.00",
+        "acm": "3.ms.2_4_1kch6pm.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "iid": "1kch6pm",
+        "link": "http://item.meilishuo.com/h5/detail/1kch6pm?acm=3.ms.2_4_1kch6pm.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kch6pm?acm=3.ms.2_4_1kch6pm.0.24477-25176.05NOQqnQm2O5l.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "82",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170520_05268cajj0el99l4lbc7clf7k8db7_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 23,
+        "title": "休闲裤 男裤 个性 宽松 羽毛印花 情侣款 男士 夏季",
+        "cfav": 50,
+        "price": "￥116.00",
+        "ptpC": "_mb_mls_10057206_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 200649769,
+        "titleTags": "休闲裤;男裤;个性;宽松;羽毛印花;情侣款;男士;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170520_05268cajj0el99l4lbc7clf7k8db7_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "休闲裤",
+          "男裤",
+          "个性",
+          "宽松",
+          "羽毛印花",
+          "情侣款",
+          "男士",
+          "夏季"
+        ]
+      }
+    ],
+    "ptpPartC": "_mb_mls_10057206_wap-cate_noab-noab",
+    "filter": {
+      "title": "wap类目图墙",
+      "list": [
+        {
+          "title": "综合",
+          "sort": "pop",
+          "style": null,
+          "fcid": "10057206",
+          "type": "sort"
+        },
+        {
+          "title": "销量",
+          "sort": "sell",
+          "style": null,
+          "fcid": "10057206",
+          "type": "sort"
+        },
+        {
+          "title": "最新",
+          "sort": "new",
+          "style": null,
+          "fcid": "10057206",
+          "type": "sort"
+        }
+      ]
+    }
+  }
+}
