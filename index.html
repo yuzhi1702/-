@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <script src="http://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
+    <script src="js/angular-ui-router.js"></script>
+    <script src="js/angular-css.min.js"></script>
+    <script src="conmpent/home/home.js"></script>
+    <script src="conmpent/classify/classify.js"></script>
+    <script src="conmpent/shopcar/shopcar.js"></script>
+    <script src="conmpent/mine/mine.js"></script>
+    <script src="app.js"></script>
+    <title>美丽说Angular版</title>
+</head>
+<body ng-app="mls">
+<div id="wrap">
+    <div id="content" ui-view></div>
+    <div id="tab">
+        <ul>
+            <li ui-sref="home"><a href="">首页</a></li>
+            <li ui-sref="classify"><a href="">分类</a></li>
+            <li ui-sref="shopcar"><a href="">购物车</a></li>
+            <li ui-sref="mine"><a href="">我</a></li>
+        </ul>
+    </div>
+</div>
+
+
+</body>
+<script>
+    document.documentElement.style.fontSize = innerWidth / 4 + "px";
+    window.onresize = function () {
+        document.documentElement.style.fontSize = innerWidth / 4 + "px";
+    }
+</script>
+</html>
