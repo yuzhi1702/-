@@ -1,0 +1,13 @@
+<ul class="commodity2">
+    <div>
+        <p ng-click =" has = '-price*100'"  >按价格排序 </p>
+        <p ng-click =" has = 'itemMarks'"  >按好评 </p>
+        <p ng-click =" has = '-sale*100'"  >按销量 </p>
+    </div>
+    <li ng-repeat="item1 in arr| orderBy : has">
+        <img  src="{{item1.show.img}}" alt="" />
+        <p>{{item1 .title}}</p>
+        <p>{{item1 .price}}</p>
+        <!--<p>{{item1 .sale}}</p>-->
+    </li>
+</ul>

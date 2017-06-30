@@ -1,0 +1,7 @@
+.commodity1{width: 100%;}
+.commodity1>div{ width: 100%;  }
+.commodity1>div>p{ float: left;width: 30%;text-align: center;background: lavender }
+
+.commodity1 li{ width: 44%;float: left;height: 2.6rem;margin-left: 0.2rem}
+.commodity1 img {width: 100%;height: 1.5rem;}
+.commodity1 p{  font-size: 0.18rem;  }

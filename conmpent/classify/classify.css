@@ -1,4 +1,4 @@
 .commodity{ width: 100%;  }
-.commodity li{ float: left;width: 44%;height: 3.6rem;margin-left: 0.2rem}
+.commodity li{ float: left;width: 25%;height: 3rem;}
 .commodity img{ width: 100%;height: 1.8rem }
 .commodity p{ font-size: 0.18rem; width: 100%; }

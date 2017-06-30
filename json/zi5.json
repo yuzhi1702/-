@@ -1,0 +1,1537 @@
+{
+  "success": true,
+  "returnCode": "1001",
+  "returnMessage": null,
+  "data": {
+    "total": 10670,
+    "title": "wap类目图墙",
+    "sort": "pop",
+    "isEnd": false,
+    "cpc_offset": 0,
+    "param": {
+      "_mgjuuid": "f2ddc74d-8392-48a9-b097-bce2628dd09b",
+      "sort": "pop",
+      "ptpWallCpc": "_wall_cpc",
+      "section": "0",
+      "ptpWallDoc": "_wall_docs",
+      "cpc_offset": 0,
+      "eventId": 70003,
+      "cKey": "wap-cate",
+      "page": "1",
+      "fcid": "10057241",
+      "cpcEventId": 700015,
+      "ptpPartC": "_mb_mls_10057241_wap-cate_noab-noab",
+      "minPrice": "5"
+    },
+    "page": 1,
+    "list": [
+      {
+        "orgPrice": "￥62.50",
+        "acm": "3.ms.2_4_1keadho.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1keadho",
+        "link": "http://item.meilishuo.com/h5/detail/1keadho?acm=3.ms.2_4_1keadho.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keadho?acm=3.ms.2_4_1keadho.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170608/upload_1lj155gld24b8bfj8869jahjdlf11_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 30,
+        "title": "文胸套装 性感内衣 蕾丝 超薄 法式 薄款 透明 网纱",
+        "cfav": 278,
+        "price": "￥62.50",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;性感内衣;蕾丝;超薄;法式;薄款;透明;网纱",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170608/upload_1lj155gld24b8bfj8869jahjdlf11_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "性感内衣",
+          "蕾丝",
+          "超薄",
+          "法式",
+          "薄款",
+          "透明",
+          "网纱"
+        ]
+      },
+      {
+        "orgPrice": "￥65.00",
+        "acm": "3.ms.2_4_1kc0xfe.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1kc0xfe",
+        "link": "http://item.meilishuo.com/h5/detail/1kc0xfe?acm=3.ms.2_4_1kc0xfe.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kc0xfe?acm=3.ms.2_4_1kc0xfe.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170512/upload_5f533idbia5793eh0j1d0k16c729k_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 30,
+        "title": "文胸套装 美背文胸 调整型 聚拢 无钢圈 侧扣 小胸 性感 甜美",
+        "cfav": 231,
+        "price": "￥65.00",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;美背文胸;调整型;聚拢;无钢圈;侧扣;小胸;性感;甜美",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170512/upload_5f533idbia5793eh0j1d0k16c729k_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "美背文胸",
+          "调整型",
+          "聚拢",
+          "无钢圈",
+          "侧扣",
+          "小胸",
+          "性感",
+          "甜美"
+        ]
+      },
+      {
+        "orgPrice": "￥85.00",
+        "acm": "3.ms.2_4_1keiqsq.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1keiqsq",
+        "link": "http://item.meilishuo.com/h5/detail/1keiqsq?acm=3.ms.2_4_1keiqsq.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keiqsq?acm=3.ms.2_4_1keiqsq.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170623/upload_0de42bifc0489bcl907b43fdah9k5_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 28,
+        "title": "文胸套装 婚纱礼服 无钢圈 小胸",
+        "cfav": 414,
+        "price": "￥85.00",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;婚纱礼服;无钢圈;小胸",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170623/upload_0de42bifc0489bcl907b43fdah9k5_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "婚纱礼服",
+          "无钢圈",
+          "小胸"
+        ]
+      },
+      {
+        "orgPrice": "￥55.00",
+        "acm": "3.ms.2_4_1kcnovy.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1kcnovy",
+        "link": "http://item.meilishuo.com/h5/detail/1kcnovy?acm=3.ms.2_4_1kcnovy.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kcnovy?acm=3.ms.2_4_1kcnovy.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170523/upload_62df6b56d89lc0b76l4elg9d5if4h_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 29,
+        "title": "文胸套装 薄款内衣 调整型 聚拢 无钢圈 一片式 无痕 性感 日系 甜美 条纹",
+        "cfav": 138,
+        "price": "￥55.00",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;薄款内衣;调整型;聚拢;无钢圈;一片式;无痕;性感;日系;甜美;条纹",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170523/upload_62df6b56d89lc0b76l4elg9d5if4h_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "薄款内衣",
+          "调整型",
+          "聚拢",
+          "无钢圈",
+          "一片式",
+          "无痕",
+          "性感",
+          "日系",
+          "甜美",
+          "条纹"
+        ]
+      },
+      {
+        "orgPrice": "￥126.50",
+        "acm": "3.ms.2_1_1gmqrzo.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651344_0_1_0-c1_",
+        "iid": "1gmqrzo",
+        "link": "http://item.meilishuo.com/h5/detail/1gmqrzo?acm=3.ms.2_1_1gmqrzo.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651344_0_1_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3FhanowX2Y4M2Q5MzY5YTc3MzdiYjkwODQ2YWE5ODk3MTZlMmFmXzE2XzBfMjMzNjUxMzQ0XzAuODQ1OF8wXzFfMV8xODJfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1gmqrzo?acm=3.ms.2_1_1gmqrzo.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651344_0_1_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3FhanowX2Y4M2Q5MzY5YTc3MzdiYjkwODQ2YWE5ODk3MTZlMmFmXzE2XzBfMjMzNjUxMzQ0XzAuODQ1OF8wXzFfMV8xODJfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xN3FhanowX2Y4M2Q5MzY5YTc3MzdiYjkwODQ2YWE5ODk3MTZlMmFmXzE2XzBfMjMzNjUxMzQ0XzAuODQ1OF8wXzFfMV8xODJfMF8w",
+        "itemMarks": "98 107",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/161123/874928310_1cdi5bg8bc6bba756hh4ahbh1l4bf_706x918.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "7",
+        "title": "文胸套装 女士内衣 性感 蕾丝 超薄 舒适 透明",
+        "cfav": "502",
+        "price": "￥89.81",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "100173621",
+        "titleTags": "文胸套装;女士内衣;性感;蕾丝;超薄;舒适;透明",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/161123/874928310_1cdi5bg8bc6bba756hh4ahbh1l4bf_706x918.jpg_560x999.jpg",
+          "w": 560,
+          "h": 729
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "女士内衣",
+          "性感",
+          "蕾丝",
+          "超薄",
+          "舒适",
+          "透明"
+        ]
+      },
+      {
+        "orgPrice": "￥169.00",
+        "acm": "3.ms.2_1_1ke1h2w.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233712818_0_2_0-c1_",
+        "iid": "1ke1h2w",
+        "link": "http://item.meilishuo.com/h5/detail/1ke1h2w?acm=3.ms.2_1_1ke1h2w.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233712818_0_2_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3FhanoyXzA5ZDIxY2MzMTI2OWYyZjAyYWI3OTZiY2M4Yzc0NmQ0XzE2XzFfMjMzNzEyODE4XzEuMF8wXzJfMV8zNTNfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1ke1h2w?acm=3.ms.2_1_1ke1h2w.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233712818_0_2_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3FhanoyXzA5ZDIxY2MzMTI2OWYyZjAyYWI3OTZiY2M4Yzc0NmQ0XzE2XzFfMjMzNzEyODE4XzEuMF8wXzJfMV8zNTNfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xN3FhanoyXzA5ZDIxY2MzMTI2OWYyZjAyYWI3OTZiY2M4Yzc0NmQ0XzE2XzFfMjMzNzEyODE4XzEuMF8wXzJfMV8zNTNfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170616_6g1f7aid9ea6996aga17kc30fhack_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "2",
+        "title": "文胸套装 胸罩 聚拢 无钢圈 小胸 性感 舒适",
+        "cfav": "10",
+        "price": "￥84.50",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "1300536984",
+        "titleTags": "文胸套装;胸罩;聚拢;无钢圈;小胸;性感;舒适",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170616_6g1f7aid9ea6996aga17kc30fhack_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "胸罩",
+          "聚拢",
+          "无钢圈",
+          "小胸",
+          "性感",
+          "舒适"
+        ]
+      },
+      {
+        "orgPrice": "￥49.00",
+        "acm": "3.ms.2_4_1kcpd6y.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1kcpd6y",
+        "link": "http://item.meilishuo.com/h5/detail/1kcpd6y?acm=3.ms.2_4_1kcpd6y.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kcpd6y?acm=3.ms.2_4_1kcpd6y.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170510/upload_13434hc82ik09g17iihf7i81ddc08_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 882,
+        "title": "文胸套装 聚拢 无钢圈 无痕 薄款 女士",
+        "cfav": 1985,
+        "price": "￥49.00",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;聚拢;无钢圈;无痕;薄款;女士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170510/upload_13434hc82ik09g17iihf7i81ddc08_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "聚拢",
+          "无钢圈",
+          "无痕",
+          "薄款",
+          "女士"
+        ]
+      },
+      {
+        "orgPrice": "￥33.75",
+        "acm": "3.ms.2_4_1k9r4dm.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1k9r4dm",
+        "link": "http://item.meilishuo.com/h5/detail/1k9r4dm?acm=3.ms.2_4_1k9r4dm.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k9r4dm?acm=3.ms.2_4_1k9r4dm.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170407/upload_2cchk84lb7bji5dlje6lc97k5idkj_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 675,
+        "title": "文胸套装 内衣 聚拢 小胸 无肩带 无带 隐形 露背 加厚 防滑",
+        "cfav": 2665,
+        "price": "￥33.75",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;内衣;聚拢;小胸;无肩带;无带;隐形;露背;加厚;防滑",
+        "showLarge": {
+          "img": "http://s11.mogucdn.com/p2/170407/upload_2cchk84lb7bji5dlje6lc97k5idkj_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "内衣",
+          "聚拢",
+          "小胸",
+          "无肩带",
+          "无带",
+          "隐形",
+          "露背",
+          "加厚",
+          "防滑"
+        ]
+      },
+      {
+        "orgPrice": "￥70.00",
+        "acm": "3.ms.2_1_1k7wv8k.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_220949588_314949185_1_0-c1_10057241_nil_nil_1_314949185_30",
+        "iid": "1k7wv8k",
+        "link": "http://item.meilishuo.com/h5/detail/1k7wv8k?acm=3.ms.2_1_1k7wv8k.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_220949588_314949185_1_0-c1_10057241_nil_nil_1_314949185_30&cparam=MTQ5ODgwMzQ5OF8xN2IzZm1vX2E2YzYzZDcwZjIzOGZiOWVkYjUxNTZjYmEzY2UyZTc1XzMyXzBfMjIwOTQ5NTg4XzBfMzE0OTQ5MTg1XzFfMF81ODRfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k7wv8k?acm=3.ms.2_1_1k7wv8k.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_220949588_314949185_1_0-c1_10057241_nil_nil_1_314949185_30&cparam=MTQ5ODgwMzQ5OF8xN2IzZm1vX2E2YzYzZDcwZjIzOGZiOWVkYjUxNTZjYmEzY2UyZTc1XzMyXzBfMjIwOTQ5NTg4XzBfMzE0OTQ5MTg1XzFfMF81ODRfMF8w",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xN2IzZm1vX2E2YzYzZDcwZjIzOGZiOWVkYjUxNTZjYmEzY2UyZTc1XzMyXzBfMjIwOTQ5NTg4XzBfMzE0OTQ5MTg1XzFfMF81ODRfMF8w",
+        "itemMarks": "-1",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170603_1dkakf33d9614bi9h8l2l87d77fe6_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "596",
+        "title": "内衣 聚拢 性感 超薄 日系 薄款 白色 蝴蝶结 夏季",
+        "cfav": "1309",
+        "price": "￥49.00",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "1302360614",
+        "titleTags": "内衣;聚拢;性感;超薄;日系;薄款;白色;蝴蝶结;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170603_1dkakf33d9614bi9h8l2l87d77fe6_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "内衣",
+          "聚拢",
+          "性感",
+          "超薄",
+          "日系",
+          "薄款",
+          "白色",
+          "蝴蝶结",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥85.00",
+        "acm": "3.ms.2_1_16mcw8w.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_224212822_21691832_2_0-c1_10057241_nil_nil_1_21691832_38",
+        "iid": "16mcw8w",
+        "link": "http://item.meilishuo.com/h5/detail/16mcw8w?acm=3.ms.2_1_16mcw8w.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_224212822_21691832_2_0-c1_10057241_nil_nil_1_21691832_38&cparam=MTQ5ODgwMzQ5OF8xN2V6YmhnX2NjMzkxZDYyNGJlMzhiZjI0MTliMWFjZGE3ZTA0Yjg3XzMyXzFfMjI0MjEyODIyXzBfMjE2OTE4MzJfMl8wXzcwXzBfMA==",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/16mcw8w?acm=3.ms.2_1_16mcw8w.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_224212822_21691832_2_0-c1_10057241_nil_nil_1_21691832_38&cparam=MTQ5ODgwMzQ5OF8xN2V6YmhnX2NjMzkxZDYyNGJlMzhiZjI0MTliMWFjZGE3ZTA0Yjg3XzMyXzFfMjI0MjEyODIyXzBfMjE2OTE4MzJfMl8wXzcwXzBfMA==",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xN2V6YmhnX2NjMzkxZDYyNGJlMzhiZjI0MTliMWFjZGE3ZTA0Yjg3XzMyXzFfMjI0MjEyODIyXzBfMjE2OTE4MzJfMl8wXzcwXzBfMA==",
+        "itemMarks": "72 77",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/b7/pic/150521/13h6x2_ieytkyrrgazgkyrugezdambqmeyde_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "4371",
+        "title": "胸罩 不聚拢 性感 蕾丝 超薄透气 薄款 透明 欧美",
+        "cfav": "20425",
+        "price": "￥59.50",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "105533",
+        "titleTags": "胸罩;不聚拢;性感;蕾丝;超薄透气;薄款;透明;欧美",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/b7/pic/150521/13h6x2_ieytkyrrgazgkyrugezdambqmeyde_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "胸罩",
+          "不聚拢",
+          "性感",
+          "蕾丝",
+          "超薄透气",
+          "薄款",
+          "透明",
+          "欧美"
+        ]
+      },
+      {
+        "orgPrice": "￥179.00",
+        "acm": "3.ms.2_1_1h5s75e.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233712819_0_3_0-c1_",
+        "iid": "1h5s75e",
+        "link": "http://item.meilishuo.com/h5/detail/1h5s75e?acm=3.ms.2_1_1h5s75e.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233712819_0_3_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3Fhano2XzY0NzA2NThlYjE2Y2RjMWEzN2VlZGJlNWUzMjA0MzRhXzE2XzJfMjMzNzEyODE5XzEuMF8wXzNfMV8zNTNfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h5s75e?acm=3.ms.2_1_1h5s75e.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233712819_0_3_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3Fhano2XzY0NzA2NThlYjE2Y2RjMWEzN2VlZGJlNWUzMjA0MzRhXzE2XzJfMjMzNzEyODE5XzEuMF8wXzNfMV8zNTNfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xN3Fhano2XzY0NzA2NThlYjE2Y2RjMWEzN2VlZGJlNWUzMjA0MzRhXzE2XzJfMjMzNzEyODE5XzEuMF8wXzNfMV8zNTNfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170303/1322034529_67ak1abaa2272hfjd1k4dib20j6ae_790x1102.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "2",
+        "title": "文胸套装 胸罩 三排扣 聚拢 无钢圈 小胸 性感 舒适 薄款",
+        "cfav": "139",
+        "price": "￥89.50",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "1300536984",
+        "titleTags": "文胸套装;胸罩;三排扣;聚拢;无钢圈;小胸;性感;舒适;薄款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170303/1322034529_67ak1abaa2272hfjd1k4dib20j6ae_790x1102.jpg_560x999.jpg",
+          "w": 560,
+          "h": 782
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "胸罩",
+          "三排扣",
+          "聚拢",
+          "无钢圈",
+          "小胸",
+          "性感",
+          "舒适",
+          "薄款"
+        ]
+      },
+      {
+        "orgPrice": "￥170.00",
+        "acm": "3.ms.2_1_1k9eu0c.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233712821_0_4_0-c1_",
+        "iid": "1k9eu0c",
+        "link": "http://item.meilishuo.com/h5/detail/1k9eu0c?acm=3.ms.2_1_1k9eu0c.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233712821_0_4_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3FhanpjX2U4M2NmYzlhYjg5YWU0OGY4ZWRjNDZmNzU4YjgyZGExXzE2XzNfMjMzNzEyODIxXzEuMF8wXzRfMV8zNTNfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k9eu0c?acm=3.ms.2_1_1k9eu0c.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233712821_0_4_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3FhanpjX2U4M2NmYzlhYjg5YWU0OGY4ZWRjNDZmNzU4YjgyZGExXzE2XzNfMjMzNzEyODIxXzEuMF8wXzRfMV8zNTNfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xN3FhanpjX2U4M2NmYzlhYjg5YWU0OGY4ZWRjNDZmNzU4YjgyZGExXzE2XzNfMjMzNzEyODIxXzEuMF8wXzRfMV8zNTNfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170401_2abjb0dh0k38883ka88gldha2dj52_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "3",
+        "title": "文胸套装 女士内衣 聚拢 无钢圈 性感 超薄 防走光",
+        "cfav": "25",
+        "price": "￥85.00",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "1300536984",
+        "titleTags": "文胸套装;女士内衣;聚拢;无钢圈;性感;超薄;防走光",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170401_2abjb0dh0k38883ka88gldha2dj52_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "女士内衣",
+          "聚拢",
+          "无钢圈",
+          "性感",
+          "超薄",
+          "防走光"
+        ]
+      },
+      {
+        "orgPrice": "￥40.00",
+        "acm": "3.ms.2_4_1kelynw.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1kelynw",
+        "link": "http://item.meilishuo.com/h5/detail/1kelynw?acm=3.ms.2_4_1kelynw.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kelynw?acm=3.ms.2_4_1kelynw.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/p2/170627/upload_6f4k0dk2aga4735h0ld73a51h9155_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 13,
+        "title": "文胸套装 少女内衣 调整型 美背 聚拢 无钢圈 无痕 性感 百搭",
+        "cfav": 313,
+        "price": "￥40.00",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;少女内衣;调整型;美背;聚拢;无钢圈;无痕;性感;百搭",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170627/upload_6f4k0dk2aga4735h0ld73a51h9155_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "少女内衣",
+          "调整型",
+          "美背",
+          "聚拢",
+          "无钢圈",
+          "无痕",
+          "性感",
+          "百搭"
+        ]
+      },
+      {
+        "orgPrice": "￥77.50",
+        "acm": "3.ms.2_4_1kemdz4.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1kemdz4",
+        "link": "http://item.meilishuo.com/h5/detail/1kemdz4?acm=3.ms.2_4_1kemdz4.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kemdz4?acm=3.ms.2_4_1kemdz4.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170628/upload_185bbcac9hhh9ga723882ef7lkj4f_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 5,
+        "title": "文胸套装 少女内衣 聚拢 无钢圈 一片式 无痕 薄款",
+        "cfav": 406,
+        "price": "￥77.50",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;少女内衣;聚拢;无钢圈;一片式;无痕;薄款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170628/upload_185bbcac9hhh9ga723882ef7lkj4f_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "少女内衣",
+          "聚拢",
+          "无钢圈",
+          "一片式",
+          "无痕",
+          "薄款"
+        ]
+      },
+      {
+        "orgPrice": "￥198.00",
+        "acm": "3.ms.2_1_1h3311m.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233712824_0_5_0-c1_",
+        "iid": "1h3311m",
+        "link": "http://item.meilishuo.com/h5/detail/1h3311m?acm=3.ms.2_1_1h3311m.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233712824_0_5_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3E3eDNpXzc4NDUyZDU4NDA5MzlkOWZkODU2Yzk3ODM3YmQxZTIyXzE2XzRfMjMzNzEyODI0XzAuMTE4Ml8wXzVfMV8zNTNfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h3311m?acm=3.ms.2_1_1h3311m.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233712824_0_5_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3E3eDNpXzc4NDUyZDU4NDA5MzlkOWZkODU2Yzk3ODM3YmQxZTIyXzE2XzRfMjMzNzEyODI0XzAuMTE4Ml8wXzVfMV8zNTNfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xN3E3eDNpXzc4NDUyZDU4NDA5MzlkOWZkODU2Yzk3ODM3YmQxZTIyXzE2XzRfMjMzNzEyODI0XzAuMTE4Ml8wXzVfMV8zNTNfMF8w",
+        "itemMarks": "98 107",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/161126/1322034529_2cb6edc7kc544ijd9ge2k1f8069cl_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "0",
+        "title": "文胸套装 聚拢 无钢圈 小胸 性感 红色 新娘",
+        "cfav": "81",
+        "price": "￥99.00",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "1300536984",
+        "titleTags": "文胸套装;聚拢;无钢圈;小胸;性感;红色;新娘",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/161126/1322034529_2cb6edc7kc544ijd9ge2k1f8069cl_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "聚拢",
+          "无钢圈",
+          "小胸",
+          "性感",
+          "红色",
+          "新娘"
+        ]
+      },
+      {
+        "orgPrice": "￥85.43",
+        "acm": "3.ms.2_1_1h5dcgu.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651339_0_6_0-c1_",
+        "iid": "1h5dcgu",
+        "link": "http://item.meilishuo.com/h5/detail/1h5dcgu?acm=3.ms.2_1_1h5dcgu.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651339_0_6_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3E3eDNrXzgzMGVlMzgwNTBiN2ZkOWQ3OGY1MmJjNzNkNDE4NzYyXzE2XzVfMjMzNjUxMzM5XzEuMF8wXzZfMV8xODJfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h5dcgu?acm=3.ms.2_1_1h5dcgu.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651339_0_6_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3E3eDNrXzgzMGVlMzgwNTBiN2ZkOWQ3OGY1MmJjNzNkNDE4NzYyXzE2XzVfMjMzNjUxMzM5XzEuMF8wXzZfMV8xODJfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xN3E3eDNrXzgzMGVlMzgwNTBiN2ZkOWQ3OGY1MmJjNzNkNDE4NzYyXzE2XzVfMjMzNjUxMzM5XzEuMF8wXzZfMV8xODJfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170222/874928310_75jh5aikhjigkd7idg27760jid9e2_706x918.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "14",
+        "title": "文胸套装 内衣 性感 碎花 清晰",
+        "cfav": "53",
+        "price": "￥59.80",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "100173621",
+        "titleTags": "文胸套装;内衣;性感;碎花;清晰",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170222/874928310_75jh5aikhjigkd7idg27760jid9e2_706x918.jpg_560x999.jpg",
+          "w": 560,
+          "h": 729
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "内衣",
+          "性感",
+          "碎花",
+          "清晰"
+        ]
+      },
+      {
+        "orgPrice": "￥126.00",
+        "acm": "3.ms.2_1_1k5u4u4.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_186007968_240386169_3_0-c1_10057241_nil_nil_1_240386169_30",
+        "iid": "1k5u4u4",
+        "link": "http://item.meilishuo.com/h5/detail/1k5u4u4?acm=3.ms.2_1_1k5u4u4.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_186007968_240386169_3_0-c1_10057241_nil_nil_1_240386169_30&cparam=MTQ5ODgwMzQ5OF8xNjVobGRrXzdmMDhiMzg4ZmFiOGMwM2JlNjUwZjI1NDJlNDI2N2JhXzMyXzJfMTg2MDA3OTY4XzBfMjQwMzg2MTY5XzNfMF84ODhfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k5u4u4?acm=3.ms.2_1_1k5u4u4.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_186007968_240386169_3_0-c1_10057241_nil_nil_1_240386169_30&cparam=MTQ5ODgwMzQ5OF8xNjVobGRrXzdmMDhiMzg4ZmFiOGMwM2JlNjUwZjI1NDJlNDI2N2JhXzMyXzJfMTg2MDA3OTY4XzBfMjQwMzg2MTY5XzNfMF84ODhfMF8w",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xNjVobGRrXzdmMDhiMzg4ZmFiOGMwM2JlNjUwZjI1NDJlNDI2N2JhXzMyXzJfMTg2MDA3OTY4XzBfMjQwMzg2MTY5XzNfMF84ODhfMF8w",
+        "itemMarks": "2 116 149 93 95",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170408_75id5d727ac8050ck2hhfdjj6g004_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "280",
+        "title": "内衣 软杯 无钢圈 超薄款 性感 蕾丝 镂空 三角 印花 复古",
+        "cfav": "1663",
+        "price": "￥84.42",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "1302274704",
+        "titleTags": "内衣;软杯;无钢圈;超薄款;性感;蕾丝;镂空;三角;印花;复古",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170408_75id5d727ac8050ck2hhfdjj6g004_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "内衣",
+          "软杯",
+          "无钢圈",
+          "超薄款",
+          "性感",
+          "蕾丝",
+          "镂空",
+          "三角",
+          "印花",
+          "复古"
+        ]
+      },
+      {
+        "orgPrice": "￥57.00",
+        "acm": "3.ms.2_1_1k9h1uc.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_190262748_1691551_4_0-c1_10057241_nil_nil_0_1691551_35",
+        "iid": "1k9h1uc",
+        "link": "http://item.meilishuo.com/h5/detail/1k9h1uc?acm=3.ms.2_1_1k9h1uc.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_190262748_1691551_4_0-c1_10057241_nil_nil_0_1691551_35&cparam=MTQ5ODgwMzQ5OF8xNmFqemU4X2I3NDRjY2JmNzkyYmQ2ZTk5MjkyNjBlNmYzY2MxNmJmXzMyXzNfMTkwMjYyNzQ4XzBfMTY5MTU1MV80XzBfMzYyXzBfMA==",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k9h1uc?acm=3.ms.2_1_1k9h1uc.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_190262748_1691551_4_0-c1_10057241_nil_nil_0_1691551_35&cparam=MTQ5ODgwMzQ5OF8xNmFqemU4X2I3NDRjY2JmNzkyYmQ2ZTk5MjkyNjBlNmYzY2MxNmJmXzMyXzNfMTkwMjYyNzQ4XzBfMTY5MTU1MV80XzBfMzYyXzBfMA==",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xNmFqemU4X2I3NDRjY2JmNzkyYmQ2ZTk5MjkyNjBlNmYzY2MxNmJmXzMyXzNfMTkwMjYyNzQ4XzBfMTY5MTU1MV80XzBfMzYyXzBfMA==",
+        "itemMarks": "77",
+        "show": {
+          "w": 320,
+          "img": "http://s17.mogucdn.com/p2/170403/upload_39ea7d28l0ee961ke37b7920e8khk_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "4071",
+        "title": "胸罩套装 美背 无钢圈 小胸 性感 加厚",
+        "cfav": "4016",
+        "price": "￥39.90",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "21935211",
+        "titleTags": "胸罩套装;美背;无钢圈;小胸;性感;加厚",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170403/upload_39ea7d28l0ee961ke37b7920e8khk_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "胸罩套装",
+          "美背",
+          "无钢圈",
+          "小胸",
+          "性感",
+          "加厚"
+        ]
+      },
+      {
+        "orgPrice": "￥199.50",
+        "acm": "3.ms.2_1_1gkve80.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651340_0_7_0-c1_",
+        "iid": "1gkve80",
+        "link": "http://item.meilishuo.com/h5/detail/1gkve80?acm=3.ms.2_1_1gkve80.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651340_0_7_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3E3eDNtXzYxM2VhYTA2M2M0ZGY3N2NjYzUxNzhjYWNmNzc2OWY0XzE2XzZfMjMzNjUxMzQwXzEuMF8wXzdfMV8xODJfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1gkve80?acm=3.ms.2_1_1gkve80.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651340_0_7_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3E3eDNtXzYxM2VhYTA2M2M0ZGY3N2NjYzUxNzhjYWNmNzc2OWY0XzE2XzZfMjMzNjUxMzQwXzEuMF8wXzdfMV8xODJfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xN3E3eDNtXzYxM2VhYTA2M2M0ZGY3N2NjYzUxNzhjYWNmNzc2OWY0XzE2XzZfMjMzNjUxMzQwXzEuMF8wXzdfMV8xODJfMF8w",
+        "itemMarks": "98",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/p1/160708/874928310_ie4gmnzqmmztsmdbhezdambqgiyde_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "4",
+        "title": "文胸套装 文胸 聚拢 宫廷 性感 欧美 女士",
+        "cfav": "96",
+        "price": "￥79.80",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "100173621",
+        "titleTags": "文胸套装;文胸;聚拢;宫廷;性感;欧美;女士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p1/160708/874928310_ie4gmnzqmmztsmdbhezdambqgiyde_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "文胸",
+          "聚拢",
+          "宫廷",
+          "性感",
+          "欧美",
+          "女士"
+        ]
+      },
+      {
+        "orgPrice": "￥82.80",
+        "acm": "3.ms.2_1_1kcoles.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651341_0_8_0-c1_",
+        "iid": "1kcoles",
+        "link": "http://item.meilishuo.com/h5/detail/1kcoles?acm=3.ms.2_1_1kcoles.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651341_0_8_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3E3eDNxX2QyMTA3ZjllYjU4NjAxODdkMTQwNmVlOTcyZDQ4MzY4XzE2XzdfMjMzNjUxMzQxXzEuMF8wXzhfMV8xODJfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kcoles?acm=3.ms.2_1_1kcoles.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651341_0_8_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3E3eDNxX2QyMTA3ZjllYjU4NjAxODdkMTQwNmVlOTcyZDQ4MzY4XzE2XzdfMjMzNjUxMzQxXzEuMF8wXzhfMV8xODJfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xN3E3eDNxX2QyMTA3ZjllYjU4NjAxODdkMTQwNmVlOTcyZDQ4MzY4XzE2XzdfMjMzNjUxMzQxXzEuMF8wXzhfMV8xODJfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170523_2k317blf0k518ddh3256534jb42eg_640x833.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "12",
+        "title": "文胸套装 学生文胸 聚拢 性感 日系 薄款 纯棉 全棉",
+        "cfav": "34",
+        "price": "￥57.96",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "100173621",
+        "titleTags": "文胸套装;学生文胸;聚拢;性感;日系;薄款;纯棉;全棉",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170523_2k317blf0k518ddh3256534jb42eg_640x833.jpg_560x999.jpg",
+          "w": 560,
+          "h": 729
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "学生文胸",
+          "聚拢",
+          "性感",
+          "日系",
+          "薄款",
+          "纯棉",
+          "全棉"
+        ]
+      },
+      {
+        "orgPrice": "￥75.00",
+        "acm": "3.ms.2_4_1kemi5o.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1kemi5o",
+        "link": "http://item.meilishuo.com/h5/detail/1kemi5o?acm=3.ms.2_4_1kemi5o.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kemi5o?acm=3.ms.2_4_1kemi5o.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170628/upload_7hebh94694a5igiejh51d0kk55760_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 3,
+        "title": "文胸套装 文胸罩 美背 聚拢 无钢圈 性感 交叉式 防走光",
+        "cfav": 288,
+        "price": "￥75.00",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;文胸罩;美背;聚拢;无钢圈;性感;交叉式;防走光",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170628/upload_7hebh94694a5igiejh51d0kk55760_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "文胸罩",
+          "美背",
+          "聚拢",
+          "无钢圈",
+          "性感",
+          "交叉式",
+          "防走光"
+        ]
+      },
+      {
+        "orgPrice": "￥75.00",
+        "acm": "3.ms.2_4_1kemnp8.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1kemnp8",
+        "link": "http://item.meilishuo.com/h5/detail/1kemnp8?acm=3.ms.2_4_1kemnp8.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kemnp8?acm=3.ms.2_4_1kemnp8.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_4gkeb3lh4k1l6iei1b2j98lehcb4d_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 5,
+        "title": "文胸套装 调整型 美背 聚拢 无钢圈 无痕 蕾丝 印花 拼色 女士",
+        "cfav": 407,
+        "price": "￥75.00",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;调整型;美背;聚拢;无钢圈;无痕;蕾丝;印花;拼色;女士",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170627/upload_4gkeb3lh4k1l6iei1b2j98lehcb4d_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "调整型",
+          "美背",
+          "聚拢",
+          "无钢圈",
+          "无痕",
+          "蕾丝",
+          "印花",
+          "拼色",
+          "女士"
+        ]
+      },
+      {
+        "orgPrice": "￥37.50",
+        "acm": "3.ms.2_4_1kag50q.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1kag50q",
+        "link": "http://item.meilishuo.com/h5/detail/1kag50q?acm=3.ms.2_4_1kag50q.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kag50q?acm=3.ms.2_4_1kag50q.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170417/upload_4ej5eb02kij9dahd53bk285hglg35_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 158,
+        "title": "文胸套装 美背文胸 聚拢 无痕 小胸 性感 挂脖 条纹 新款",
+        "cfav": 771,
+        "price": "￥37.50",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;美背文胸;聚拢;无痕;小胸;性感;挂脖;条纹;新款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170417/upload_4ej5eb02kij9dahd53bk285hglg35_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "美背文胸",
+          "聚拢",
+          "无痕",
+          "小胸",
+          "性感",
+          "挂脖",
+          "条纹",
+          "新款"
+        ]
+      },
+      {
+        "orgPrice": "￥49.88",
+        "acm": "3.ms.2_4_1kbfx0w.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1kbfx0w",
+        "link": "http://item.meilishuo.com/h5/detail/1kbfx0w?acm=3.ms.2_4_1kbfx0w.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kbfx0w?acm=3.ms.2_4_1kbfx0w.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170503/upload_530cf02269bfhd5iiaci4iebjj023_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 10,
+        "title": "文胸套装 聚拢胸罩 无钢圈 性感 按摩",
+        "cfav": 97,
+        "price": "￥49.88",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;聚拢胸罩;无钢圈;性感;按摩",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170503/upload_530cf02269bfhd5iiaci4iebjj023_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "聚拢胸罩",
+          "无钢圈",
+          "性感",
+          "按摩"
+        ]
+      },
+      {
+        "orgPrice": "￥114.00",
+        "acm": "3.ms.2_1_1gmr5j4.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651343_0_9_0-c1_",
+        "iid": "1gmr5j4",
+        "link": "http://item.meilishuo.com/h5/detail/1gmr5j4?acm=3.ms.2_1_1gmr5j4.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651343_0_9_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3E3eDN1XzZjZjNkZGNhMTMyZjQ2MTczMTYzNjdmZmY3YTUzYjZmXzE2XzhfMjMzNjUxMzQzXzEuMF8wXzlfMV8xODJfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1gmr5j4?acm=3.ms.2_1_1gmr5j4.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651343_0_9_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3E3eDN1XzZjZjNkZGNhMTMyZjQ2MTczMTYzNjdmZmY3YTUzYjZmXzE2XzhfMjMzNjUxMzQzXzEuMF8wXzlfMV8xODJfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xN3E3eDN1XzZjZjNkZGNhMTMyZjQ2MTczMTYzNjdmZmY3YTUzYjZmXzE2XzhfMjMzNjUxMzQzXzEuMF8wXzlfMV8xODJfMF8w",
+        "itemMarks": "98",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/160917/874928310_4li1ibih1346043e2acfke5d1g3g7_706x918.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "8",
+        "title": "文胸套装 薄棉杯 副乳 诱惑 性感 蕾丝 女士",
+        "cfav": "183",
+        "price": "￥79.80",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "100173621",
+        "titleTags": "文胸套装;薄棉杯;副乳;诱惑;性感;蕾丝;女士",
+        "showLarge": {
+          "img": "http://s11.mogucdn.com/p2/160917/874928310_4li1ibih1346043e2acfke5d1g3g7_706x918.jpg_560x999.jpg",
+          "w": 560,
+          "h": 729
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "薄棉杯",
+          "副乳",
+          "诱惑",
+          "性感",
+          "蕾丝",
+          "女士"
+        ]
+      },
+      {
+        "orgPrice": "￥99.72",
+        "acm": "3.ms.2_1_1goax8c.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651345_0_10_0-c1_",
+        "iid": "1goax8c",
+        "link": "http://item.meilishuo.com/h5/detail/1goax8c?acm=3.ms.2_1_1goax8c.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651345_0_10_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN25jcDIwXzViNzQyMmQzNWY2MTcyMzhhOWQ5ZjBkYWVkYTI4NWQzXzE2XzlfMjMzNjUxMzQ1XzAuOTc2M18wXzEwXzFfMTgyXzBfMA==",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1goax8c?acm=3.ms.2_1_1goax8c.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233651345_0_10_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN25jcDIwXzViNzQyMmQzNWY2MTcyMzhhOWQ5ZjBkYWVkYTI4NWQzXzE2XzlfMjMzNjUxMzQ1XzAuOTc2M18wXzEwXzFfMTgyXzBfMA==",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xN25jcDIwXzViNzQyMmQzNWY2MTcyMzhhOWQ5ZjBkYWVkYTI4NWQzXzE2XzlfMjMzNjUxMzQ1XzAuOTc2M18wXzEwXzFfMTgyXzBfMA==",
+        "itemMarks": "98 107",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/160927/874928310_5bc210gi7g6ki30404hlke4d68e2g_706x918.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "3",
+        "title": "文胸套装 文胸内衣 调整型 聚拢 无钢圈 一片式 无痕 舒适 立体 减龄",
+        "cfav": "77",
+        "price": "￥69.80",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "100173621",
+        "titleTags": "文胸套装;文胸内衣;调整型;聚拢;无钢圈;一片式;无痕;舒适;立体;减龄",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/160927/874928310_5bc210gi7g6ki30404hlke4d68e2g_706x918.jpg_560x999.jpg",
+          "w": 560,
+          "h": 729
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "文胸内衣",
+          "调整型",
+          "聚拢",
+          "无钢圈",
+          "一片式",
+          "无痕",
+          "舒适",
+          "立体",
+          "减龄"
+        ]
+      },
+      {
+        "orgPrice": "￥62.50",
+        "acm": "3.ms.2_4_1kemdc4.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1kemdc4",
+        "link": "http://item.meilishuo.com/h5/detail/1kemdc4?acm=3.ms.2_4_1kemdc4.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kemdc4?acm=3.ms.2_4_1kemdc4.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_8bf6712617bgg225ib3ha50be41h9_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 6,
+        "title": "文胸套装 调整型 聚拢 无钢圈 一片式 无痕 小胸 无钢托",
+        "cfav": 291,
+        "price": "￥62.50",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;调整型;聚拢;无钢圈;一片式;无痕;小胸;无钢托",
+        "showLarge": {
+          "img": "http://s11.mogucdn.com/p2/170627/upload_8bf6712617bgg225ib3ha50be41h9_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "调整型",
+          "聚拢",
+          "无钢圈",
+          "一片式",
+          "无痕",
+          "小胸",
+          "无钢托"
+        ]
+      },
+      {
+        "orgPrice": "￥67.50",
+        "acm": "3.ms.2_4_1ken0a6.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1ken0a6",
+        "link": "http://item.meilishuo.com/h5/detail/1ken0a6?acm=3.ms.2_4_1ken0a6.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1ken0a6?acm=3.ms.2_4_1ken0a6.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_52b2kjhc735h0dc069ldc879agjle_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 7,
+        "title": "文胸套装 胸罩 聚拢 无钢圈 一片式 无痕 小胸 薄款 透气 条纹",
+        "cfav": 333,
+        "price": "￥67.50",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;胸罩;聚拢;无钢圈;一片式;无痕;小胸;薄款;透气;条纹",
+        "showLarge": {
+          "img": "http://s11.mogucdn.com/p2/170627/upload_52b2kjhc735h0dc069ldc879agjle_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "胸罩",
+          "聚拢",
+          "无钢圈",
+          "一片式",
+          "无痕",
+          "小胸",
+          "薄款",
+          "透气",
+          "条纹"
+        ]
+      },
+      {
+        "orgPrice": "￥99.00",
+        "acm": "3.ms.2_1_1k5uhl4.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_156423509_305473329_5_0-c1_10057241_nil_nil_1_305473329_50",
+        "iid": "1k5uhl4",
+        "link": "http://item.meilishuo.com/h5/detail/1k5uhl4?acm=3.ms.2_1_1k5uhl4.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_156423509_305473329_5_0-c1_10057241_nil_nil_1_305473329_50&cparam=MTQ5ODgwMzQ5OF8xNTY5ZWNpXzk0ZGM0NzcwNTBmMmU4ZDU0MTcxOTU1ODE4M2FiMTQ1XzMyXzRfMTU2NDIzNTA5XzBfMzA1NDczMzI5XzVfMF84ODhfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k5uhl4?acm=3.ms.2_1_1k5uhl4.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_156423509_305473329_5_0-c1_10057241_nil_nil_1_305473329_50&cparam=MTQ5ODgwMzQ5OF8xNTY5ZWNpXzk0ZGM0NzcwNTBmMmU4ZDU0MTcxOTU1ODE4M2FiMTQ1XzMyXzRfMTU2NDIzNTA5XzBfMzA1NDczMzI5XzVfMF84ODhfMF8w",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xNTY5ZWNpXzk0ZGM0NzcwNTBmMmU4ZDU0MTcxOTU1ODE4M2FiMTQ1XzMyXzRfMTU2NDIzNTA5XzBfMzA1NDczMzI5XzVfMF84ODhfMF8w",
+        "itemMarks": "2 147 116 149 93 95",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170429_28gd730176g267b0bk844aghl3b0g_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "1503",
+        "title": "透明内衣 聚拢 薄款",
+        "cfav": "7258",
+        "price": "￥66.33",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "1302274704",
+        "titleTags": "透明内衣;聚拢;薄款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170429_28gd730176g267b0bk844aghl3b0g_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "透明内衣",
+          "聚拢",
+          "薄款"
+        ]
+      },
+      {
+        "orgPrice": "￥22.00",
+        "acm": "3.ms.2_1_1k7tkn2.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_173987672_227243189_6_0-c1_10057241_nil_nil_1_227243189_38",
+        "iid": "1k7tkn2",
+        "link": "http://item.meilishuo.com/h5/detail/1k7tkn2?acm=3.ms.2_1_1k7tkn2.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_173987672_227243189_6_0-c1_10057241_nil_nil_1_227243189_38&cparam=MTQ5ODgwMzQ5OF8xNXI2YmpjX2M3NzI5MzFjZGU5MTM5ODdkNzljOTJiZDNjZWZlNTIyXzMyXzVfMTczOTg3NjcyXzBfMjI3MjQzMTg5XzZfMF84MjdfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k7tkn2?acm=3.ms.2_1_1k7tkn2.1.37636-25176.94mOaqo0GJIx7.t_0-lc_32-c_2_32_173987672_227243189_6_0-c1_10057241_nil_nil_1_227243189_38&cparam=MTQ5ODgwMzQ5OF8xNXI2YmpjX2M3NzI5MzFjZGU5MTM5ODdkNzljOTJiZDNjZWZlNTIyXzMyXzVfMTczOTg3NjcyXzBfMjI3MjQzMTg5XzZfMF84MjdfMF8w",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xNXI2YmpjX2M3NzI5MzFjZGU5MTM5ODdkNzljOTJiZDNjZWZlNTIyXzMyXzVfMTczOTg3NjcyXzBfMjI3MjQzMTg5XzZfMF84MjdfMF8w",
+        "itemMarks": "62",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170225/63044411_1jhh5b98c0ijgagf9e48k669aide9_800x1200.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "635",
+        "title": "无痕内衣 聚拢 无钢圈 小胸 薄款 加厚 夏季",
+        "cfav": "832",
+        "price": "￥22.00",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "102571",
+        "titleTags": "无痕内衣;聚拢;无钢圈;小胸;薄款;加厚;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170225/63044411_1jhh5b98c0ijgagf9e48k669aide9_800x1200.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "无痕内衣",
+          "聚拢",
+          "无钢圈",
+          "小胸",
+          "薄款",
+          "加厚",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥85.00",
+        "acm": "3.ms.2_1_1fp3396.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_231243344_0_11_0-c1_",
+        "iid": "1fp3396",
+        "link": "http://item.meilishuo.com/h5/detail/1fp3396?acm=3.ms.2_1_1fp3396.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_231243344_0_11_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3E4dTg4XzJmZDJlZmRmODMyMTc2ZmVkM2JmM2FiZmJiYmNkZTJhXzE2XzEwXzIzMTI0MzM0NF8wLjkyODdfMF8xMV8xXzg5Nl8wXzA=",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1fp3396?acm=3.ms.2_1_1fp3396.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_231243344_0_11_0-c1_&cparam=MTQ5ODgwMzQ5OF8xN3E4dTg4XzJmZDJlZmRmODMyMTc2ZmVkM2JmM2FiZmJiYmNkZTJhXzE2XzEwXzIzMTI0MzM0NF8wLjkyODdfMF8xMV8xXzg5Nl8wXzA=",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xN3E4dTg4XzJmZDJlZmRmODMyMTc2ZmVkM2JmM2FiZmJiYmNkZTJhXzE2XzEwXzIzMTI0MzM0NF8wLjkyODdfMF8xMV8xXzg5Nl8wXzA=",
+        "itemMarks": "98",
+        "show": {
+          "w": 320,
+          "img": "http://d01.res.meilishuo.net/pic/_o/69/6a/eedd53878719a83053e02703266b_640_832.ch.jpg_1e213a39_s1_320_999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "3",
+        "title": "文胸套装 前扣文胸 性感 加厚",
+        "cfav": "523",
+        "price": "￥85.00",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "100189484",
+        "titleTags": "文胸套装;前扣文胸;性感;加厚",
+        "showLarge": {
+          "img": "http://d01.res.meilishuo.net/pic/_o/69/6a/eedd53878719a83053e02703266b_640_832.ch.jpg_93969401_s1_560_999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "前扣文胸",
+          "性感",
+          "加厚"
+        ]
+      },
+      {
+        "orgPrice": "￥88.00",
+        "acm": "3.ms.2_1_1frh1v6.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233672808_0_12_0-c1_",
+        "iid": "1frh1v6",
+        "link": "http://item.meilishuo.com/h5/detail/1frh1v6?acm=3.ms.2_1_1frh1v6.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233672808_0_12_0-c1_&cparam=MTQ5ODgwMzQ5OF8xMWtfNjFkZmU0YjlhNDc2M2MwOTc3YjYzYmM5YjI2OGU0NGRfMTZfMTFfMjMzNjcyODA4XzBfMF8xMl8xXzE2Nl8wXzA=",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1frh1v6?acm=3.ms.2_1_1frh1v6.1.5865-25176.94mOaqo0GJIx7.t_0-lc_16-c_1_16_233672808_0_12_0-c1_&cparam=MTQ5ODgwMzQ5OF8xMWtfNjFkZmU0YjlhNDc2M2MwOTc3YjYzYmM5YjI2OGU0NGRfMTZfMTFfMjMzNjcyODA4XzBfMF8xMl8xXzE2Nl8wXzA=",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5ODgwMzQ5OF8xMWtfNjFkZmU0YjlhNDc2M2MwOTc3YjYzYmM5YjI2OGU0NGRfMTZfMTFfMjMzNjcyODA4XzBfMF8xMl8xXzE2Nl8wXzA=",
+        "itemMarks": "98 107",
+        "show": {
+          "w": 320,
+          "img": "http://d01.res.meilishuo.net/pic/_o/fa/b2/ad345f9e36e1f9889a22e99b4a63_640_900.cf.jpg_debf30e2_s1_320_999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "14",
+        "title": "文胸套装 一片式文胸 调整型 聚拢 无钢圈 无痕 性感 条纹",
+        "cfav": "1063",
+        "price": "￥61.60",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "101003024",
+        "titleTags": "文胸套装;一片式文胸;调整型;聚拢;无钢圈;无痕;性感;条纹",
+        "showLarge": {
+          "img": "http://d01.res.meilishuo.net/pic/_o/fa/b2/ad345f9e36e1f9889a22e99b4a63_640_900.cf.jpg_6d7e15dd_s1_560_999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "一片式文胸",
+          "调整型",
+          "聚拢",
+          "无钢圈",
+          "无痕",
+          "性感",
+          "条纹"
+        ]
+      },
+      {
+        "orgPrice": "￥86.25",
+        "acm": "3.ms.2_4_1kemcfc.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1kemcfc",
+        "link": "http://item.meilishuo.com/h5/detail/1kemcfc?acm=3.ms.2_4_1kemcfc.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kemcfc?acm=3.ms.2_4_1kemcfc.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_7ae6flji7heel0g5h1j50fjjf6kgd_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 5,
+        "title": "文胸套装 一片式内衣 聚拢 无钢圈 无痕 舒适 波浪",
+        "cfav": 350,
+        "price": "￥86.25",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;一片式内衣;聚拢;无钢圈;无痕;舒适;波浪",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170627/upload_7ae6flji7heel0g5h1j50fjjf6kgd_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "一片式内衣",
+          "聚拢",
+          "无钢圈",
+          "无痕",
+          "舒适",
+          "波浪"
+        ]
+      },
+      {
+        "orgPrice": "￥58.75",
+        "acm": "3.ms.2_4_1kemb16.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1kemb16",
+        "link": "http://item.meilishuo.com/h5/detail/1kemb16?acm=3.ms.2_4_1kemb16.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kemb16?acm=3.ms.2_4_1kemb16.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_37d8f698l2e7g3f54l47ak1ecfk8i_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 9,
+        "title": "文胸套装 无钢圈内衣 调整型 聚拢 一片式 无痕 小胸 拉丝 性感 薄款 透气",
+        "cfav": 379,
+        "price": "￥58.75",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;无钢圈内衣;调整型;聚拢;一片式;无痕;小胸;拉丝;性感;薄款;透气",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170627/upload_37d8f698l2e7g3f54l47ak1ecfk8i_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "无钢圈内衣",
+          "调整型",
+          "聚拢",
+          "一片式",
+          "无痕",
+          "小胸",
+          "拉丝",
+          "性感",
+          "薄款",
+          "透气"
+        ]
+      },
+      {
+        "orgPrice": "￥50.00",
+        "acm": "3.ms.2_4_1kavkj4.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "iid": "1kavkj4",
+        "link": "http://item.meilishuo.com/h5/detail/1kavkj4?acm=3.ms.2_4_1kavkj4.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kavkj4?acm=3.ms.2_4_1kavkj4.0.24477-25176.94mOaqo0GJIx7.t_0-lc_16",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170417/upload_57ji0e84e445jf4391lc4929k8cb3_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 23,
+        "title": "文胸套装 聚拢 无钢圈 小胸 性感 加厚",
+        "cfav": 168,
+        "price": "￥50.00",
+        "ptpC": "_mb_mls_10057241_wap-cate_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": "文胸套装;聚拢;无钢圈;小胸;性感;加厚",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170417/upload_57ji0e84e445jf4391lc4929k8cb3_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "文胸套装",
+          "聚拢",
+          "无钢圈",
+          "小胸",
+          "性感",
+          "加厚"
+        ]
+      }
+    ],
+    "ptpPartC": "_mb_mls_10057241_wap-cate_noab-noab",
+    "filter": {
+      "title": "wap类目图墙",
+      "list": [
+        {
+          "title": "综合",
+          "sort": "pop",
+          "style": null,
+          "fcid": "10057241",
+          "type": "sort"
+        },
+        {
+          "title": "销量",
+          "sort": "sell",
+          "style": null,
+          "fcid": "10057241",
+          "type": "sort"
+        },
+        {
+          "title": "最新",
+          "sort": "new",
+          "style": null,
+          "fcid": "10057241",
+          "type": "sort"
+        }
+      ]
+    }
+  }
+}

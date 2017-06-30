@@ -1,12 +1,11 @@
-<ul class="commodity1">
+<ul class="commodity2">
     <div>
         <p ng-click =" has = '-price'"  >按价格排序 </p>
         <p ng-click =" has = 'itemMarks'"  >按好评 </p>
-        <p ui-sref="slipper">kasjgdjkas </p>
     </div>
-
-    <li  ng-repeat="item1 in arr | orderBy : has" >
-        <img  src="{{item1.showLarge.img}}" alt="" />
+    <li ng-repeat="item1 in arr| orderBy : has">
+        <img  src="{{item1.show.img}}" alt="" />
         <p>{{item1 .title}}</p>
+        <p>{{item1 .price}}</p>
     </li>
 </ul>
