@@ -1,0 +1,13 @@
+.search{ width: 100%;height: 9%;background:white; font-size: 0.18rem  ;overflow: hidden}
+.search img{ width: 0.3rem;height: 0.3rem;margin-left: 0.1rem;margin-top: 0.1rem;float: left}
+.search>i{float: right;margin-right: 0.1rem;margin-top: 0.1rem;font-size: 0.18rem}
+.sou{ width: 55%;  float: left ;margin-left: 0.8rem;font-size: 0.16rem;background:lightblue;margin-top: 0.2rem ;border-radius:15px;      }
+.sou input{ background:lightblue;outline:none;border:0px;width: 1.4rem}
+.men{ width: 100%;background:lightgray;height: 90%; }
+.men h3{ font-size: 0.2rem; line-height: 0.4rem}
+.men ul{width: 100%}
+.men ul li{ float: left;width: 25%;text-align: center;font-size: 0.16rem;line-height: 0.4rem }
+
+
+
+

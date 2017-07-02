@@ -2,8 +2,9 @@
     <div>
     <p ng-click =" has = '-orgPrice'"  >按价格排序 </p>
     <p ng-click =" has = 'itemMarks'"  >按好评 </p>
+        <p ui-sref="classify">返回</p>
     </div>
-    <li ng-repeat="item1 in arr | orderBy : has" >
+    <li  ui-sref="tuo" ng-repeat="item1 in arr | orderBy : has" >
         <img  src="{{item1.show.img}}" alt="" />
         <p>{{item1 .title}}</p>
         <p>{{item1 .orgPrice}}</p>

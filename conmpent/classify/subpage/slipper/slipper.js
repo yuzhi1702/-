@@ -21,8 +21,8 @@ angular.module('slipperModule',['ui.router'])
     .controller("slipperCtrl",["$scope",'$http','getData7',function ($scope,$http,getData7) {
 
         getData7.get('json/zi6.json').then(function (raa) {
-            $scope.arr1 = raa.data.data;
+            $scope.arr1 = raa.data.data.list;
 
-            console.log(raa);
+            console.log(raa.data.data.list);
         })
     }])

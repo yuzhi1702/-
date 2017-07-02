@@ -1,0 +1,18 @@
+.commodity2{width: 100%;overflow: auto}
+.commodity2>p{ font-size: 0.16rem;background: lawngreen}
+.swiper-container{ width: 100%; height: 100%}
+.swiper-wrapper{ width: 100%;height: 50%;  }
+.swiper-slide{ width: 90%;height: 50%;}
+.swiper-container img{ width: 100% ;height: 100%  }
+.head li{ width: 44%;float: left;height: 3.2rem;margin-left: 0.2rem}
+.head li img {width: 100%;height: 1.7rem;}
+.head p{  font-size: 0.18rem;  }
+.head img{ width: 100%;height: 35%;}
+.jia{ width: 100%; margin-top: 0.2rem;}
+.jia span{ margin-left: 1.5rem;color: red; }
+.nei{width: 100%}
+.nei span{ margin-left: 0.5rem}
+.classify{ width: 100%;height: 10% }
+.head{ width: 100%;height: 90%;overflow: auto;}
+.classify li{ float: left;font-size: 0.2rem; width: 20%; text-align: center;overflow: hidden }
+.classify1 {color: red;background: lemonchiffon }

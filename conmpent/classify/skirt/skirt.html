@@ -5,6 +5,7 @@
     <div>
     <p ng-click =" has = 'itemSale'"  >按价格排序 </p>
     <p ng-click =" has = 'itemLikes'"  >按好评 </p>
+        <p ui-sref="classify">返回</p>
     </div>
     <li ng-repeat="item1 in arr | orderBy : has"  >
         <img  src="{{item1.item_pc_img}}" alt="" />
