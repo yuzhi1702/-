@@ -1,5 +1,5 @@
 .commodity1{width: 100%;}
-.commodity1>div{ width: 100%;  }
+.commodity1>div{ width: 100%;position:absolute;top:0;background: white  }
 .commodity1>div>p{ float: left;width: 30%;text-align: center; }
 
 .commodity1 li{ width: 44%;float: left;height: 2.6rem;margin-left: 0.2rem}
