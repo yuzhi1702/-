@@ -12,5 +12,5 @@ angular.module('shopcarModule',['ui.router'])
             })
     })
     .controller('shopcarCtrl',['$scope',function ($scope) {
-        $scope.name="shopcar";
+        $scope.name="购物车";
     }])
