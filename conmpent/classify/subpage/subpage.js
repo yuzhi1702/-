@@ -6,27 +6,23 @@
 angular.module('subpageModule',['ui.router'])
     .config(function($stateProvider, $urlRouterProvider) {
         $stateProvider
-            .state('home.subpage', {
+            .state('subpage', {
                 url: '/subpage',
-                templateUrl: 'component/home/subpage/subpage.html',
+                templateUrl: 'conmpent/classify/subpage/subpage.html',
                 controller:'subpageCtrl',
-                css:['component/home/subpage/subpage.css','component/home/home.css']
+                css:['conmpent/classify/subpage/subpage.css']
             })
     })
-    .controller('subpageCtrl',['$scope','myFactory',function($scope){
-        $scope.name = 'drink';
-
-
-    }])
-        .service('getData1',['$http',function ($http) {
+        .service('getData2',['$http',function ($http) {
             this.get=function (data) {
                 return $http.get(data);
             }
         }])
-        .controller("subpageCtrl",["$scope",'$http','getData1',function ($scope,$http,getData1) {
+        .controller("subpageCtrl",["$scope",'$http','getData2',function ($scope,$http,getData2) {
 
-            getData1.get('json/fen1.json').then(function (re) {
-                $scope.arr = re;
-                console.log(re);
+            getData2.get('json/zi.json').then(function (rea) {
+                $scope.arr = rea.data.data.list;
+
+                console.log(rea.data.data.list);
             })
         }])

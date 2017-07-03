@@ -11,14 +11,6 @@ angular.module('classifyModule',['ui.router'])
                 css:'conmpent/classify/classify.css'
             })
     })
-.controller('classifyCtrl',['$scope',function ($scope) {
-    $scope.name="classify";
-
-
-
-
-}])
-
 
 
 
@@ -29,9 +21,11 @@ angular.module('classifyModule',['ui.router'])
     }])
     .controller("classifyCtrl",["$scope",'$http','getData',function ($scope,$http,getData) {
 
-        getData.get('json/zi.json').then(function (res) {
-            $scope.arr = res.data.data.list;
-            console.log(res.data.data);
+        getData.get('json/fen1.json').then(function (res) {
+            $scope.arr = res.data.data[5768].list;
+            $scope.arr2 = res.data.data[5868].list;
+            console.log( res.data.data);
+
         })
 
     }])

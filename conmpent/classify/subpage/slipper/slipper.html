@@ -1,0 +1,12 @@
+<ul class="commodity3">
+    <div>
+        <p ng-click =" has = '-orgPrice'"  >按热销 </p>
+        <p ng-click =" has = 'sale'"  >按好评 </p>
+        <p ui-sref="subpage">返回</p>
+    </div>
+    <li ng-repeat="item2 in arr1 | orderBy : has" >
+        <img  src="{{item2.showLarge.img}}" alt="" />
+        <p>{{item2 .title}}</p>
+        <p>{{item2 .orgPrice}}</p>
+    </li>
+</ul>
