@@ -1,0 +1,32 @@
+<!--create  by yanghuan 2017 7 2-->
+
+
+{{bannerPage}}
+
+<!--轮播图跳转页面-->
+<div class="bannerPage">
+    <div class="getCoupons">
+        <p>领取优惠券</p>
+        <p>精选7折起</p>
+        <p>热卖好货</p>
+        <p></p>
+    </div>
+    <div class="bannerPage-top-pic" ng-repeat="item in bannerPageData" ng-if="item.title=='破洞牛仔裤 随性率真由你掌控'"><img src="{{item.image}}" alt=""></div>
+    <div class="coupons"></div>
+    <div class="nice-goods">
+        <span></span>
+        <h3>买手精选</h3>
+        <span></span>
+    </div>
+    <div class="nice-products">
+        <ul ng-repeat="item in niceProductsData">
+            <li><img src="{{item.item_pc_img}}" alt=""></li>
+            <li>已售40件</li>
+            <li><span>促</span><span>￥{{item.discountPrice}}</span></li>
+            <li>{{item.title}}&nbsp&nbsp</li>
+            <li><p>立即抢购</p></li>
+        </ul>
+    </div>
+
+
+</div>

@@ -1,0 +1,27 @@
+
+<!--create  by yanghuan 2017 7 3-->
+
+<!--热卖单品-->
+<div class="hotProductPage">
+    <div class="hot-banner"><img src="img/hb.jpg" alt=""></div>
+    <div class="hotProductWord">
+        <span><img src="img/h.png" alt=""></span>
+        <p>想要穿的漂亮是每个女孩子的追求，怎么才能救轻轻松松拥有吸睛能力，轮时尚嗅觉
+            的敏感度，一众走在潮流前面的明星可以说是了如指掌，跟上他们的步伐绝对不会出错哦！
+        </p>
+        <span><img class="h-r" src="img/h.png" alt=""></span>
+    </div>
+    <div class="hotProductInfo">
+        <ul ng-repeat="item in hotProductData">
+            <li><img src="{{item.image}}" alt=""></li>
+            <li><span></span>&nbsp￥<span>{{item.discountPrice}}</span></li>
+            <li>{{item.title}}</li>
+        </ul>
+    </div>
+    <div>
+        <div>
+        </div>
+        <div></div>
+    </div>
+
+</div>

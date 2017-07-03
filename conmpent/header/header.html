@@ -1,0 +1,15 @@
+<!--create  by yanghuan 2017 7 2-->
+
+
+<!--搜索页-->
+
+<header class="top-search">
+    <form action="">
+        <a href="" class="banner-l"><img src="img/l.png" alt=""></a>
+        <input type="text" placeholder="套装" ui-sref="search">
+        <a class="banner-r" href="" ui-sref="home">
+            <img src="img/r.png" alt="" ng-hide="myVar" ui-sref="search">
+            <p class="cancel" ng-hide="!myVar" ui-sref="home">{{cance}}</p>
+        </a>
+    </form>
+</header>

@@ -1,1 +1,90 @@
-<h6>{{name}}</h6>
+<!--create  by yanghuan 2017 7 2-->
+
+
+
+<div class="home">
+    <my-directive></my-directive>
+    <!--轮播图-->
+    <div class="swiper-container">
+        <div class="swiper-wrapper" ui-sref="banner" >
+            <div class="swiper-slide"  ng-repeat="item in swiperData" ng-if="item.title=='破洞牛仔裤 随性率真由你掌控'" ng-serf="banner">
+                <img src="{{item.image}}" alt="">
+            </div>
+            <div class="swiper-slide" ng-repeat="item in swiperData"  ng-if="item.title=='学院风条纹衬衫俏皮穿'" ng-serf="swiper">
+                <img src="{{item.image}}" alt="">
+            </div>
+            <div class="swiper-slide" ng-repeat="item in swiperData"  ng-if="item.title=='少女穿搭，减龄上衣任你选'" ng-serf="swiper">
+                <img src="{{item.image}}" alt="">
+            </div>
+            <div class="swiper-slide" ng-repeat="item in swiperData"  ng-if="item.title=='直播'" ng-serf="swiper">
+                <img src="{{item.image}}" alt="">
+            </div>
+            <div class="swiper-slide" ng-repeat="item in swiperData"  ng-if="item.title=='全网首发NO.22'" ng-serf="swiper">
+                <img src="{{item.image}}" alt="">
+            </div>
+        </div>
+        <!--分页器-->
+        <div class="swiper-pagination"></div>
+    </div>
+    <!--热门菜单-->
+    <div class="hot-products">
+        <div class="hot-products-info" ng-repeat="a in hotProducts"  ui-sref="hotproduct">
+            <div>
+                <img src="{{a.image}}" alt="">
+            </div>
+            <p>{{a.title}}</p>
+        </div>
+    </div>
+    <!--限时特惠-->
+    <div class="sale">
+        <div class="saleProduts">
+            <p>-&nbsp限时特惠距活动结束仅剩&nbsp-</p>
+            <div class="time">
+                <p></p>时
+                <p></p>分
+                <p></p>秒
+                <p></p>
+            </div>
+            <div class="products-container">
+                <div class="products-wrapper">
+                    <ul class="products-slide" ng-repeat="item in saleProduct">
+                        <li class="saleProductImg"><img src="{{item.image}}" alt=""></li>
+                        <li>仅剩200件</li>
+                        <li><span>￥{{item.discountPrice}}</span><span>{{item.price}}</span></li>
+                        <li><a href="">立即抢购</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--本周流行-->
+    <div class="fasion">
+        <h3>本周流行</h3>
+        <ul>
+            <li ng-repeat="item in saleProducts">
+                <div class="fasion-pic">
+                    <img src="item.acm" alt="">
+                </div>
+                <p>{{item.words}}</p>
+            </li>
+        </ul>
+    </div>
+    <!--好物组货-->
+    <div class="good-products">
+        <h3>好物组货</h3>
+        <p>最新潮好物，每日更新</p>
+        <div class="good-products-bpic">
+            <!--<img src="" alt="">-->
+        </div>
+        <div class="good-products-cate">
+            <div class="good-products-inner">
+                <!--<img src="" alt="">-->
+                <p></p>
+                <p></p>
+            </div>
+        </div>
+    </div>
+
+    </div>
+
+</div>

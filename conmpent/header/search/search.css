@@ -1,0 +1,43 @@
+/*create  by yanghuan 2017 7 2*/
+
+.cancel{
+    width: 100%;
+    height: 100%;
+    color: #666;
+    font-size: 0.14rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.keyWords{
+    width: 100%;
+    height: auto;
+    margin: 5% 0 0 5%;
+}
+.keyWords>p{
+    color: #666;
+    font-size: 0.16rem;
+}
+.keyWords>ul{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.keyWords li{
+    padding: 1% 3%;
+    margin: 2%;
+    background: #eee;
+    border-radius: 25px;
+
+}
+.keyWords a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #666;
+    font-size: 0.12rem;
+}
+.keyWords a:nth-child(2n){
+    color: red;
+}

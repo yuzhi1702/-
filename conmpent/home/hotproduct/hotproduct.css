@@ -1,0 +1,77 @@
+/*create  by yanghuan 2017 7 3*/
+
+.hotProductPage{
+    width: 100%;
+    height: 100%;
+    overflow:auto;
+}
+.hotProductPage .hot-banner{
+    width: 100%;
+    height: 20%;
+}
+.hotProductPage .hot-banner>img{
+    width:100%;
+    height:100%;
+}
+.hotProductWord{
+    width: 100%;
+    height: 30%;
+    padding: 5% 3% 5% 3%;
+}
+.hotProductWord>p{
+    font-size: 0.16rem;
+    font-weight: 400;
+    padding-left: 2%;
+}
+.hotProductWord>span{
+    display: block;
+    width: 100%;
+    height: 20%;
+}
+.hotProductWord>span>img{
+    display: inline-block;
+    width:6%;
+    height:80%;
+}
+.h-r{
+    float: right;
+}
+.hotProductWord img{
+    width: 100%;
+    height: 100%;
+}
+.hotProductInfo{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.hotProductInfo ul{
+    width:46%;
+    height:100%;
+    margin:0 2% 2%;
+}
+.hotProductInfo ul li:nth-child(1){
+    width:100%;
+    height:80%;
+}
+.hotProductInfo ul li:nth-child(1) img{
+    width:100%;
+    height:100%;
+}
+.hotProductInfo ul li:nth-child(2){
+    width:100%;
+    height:10%;
+    font-size: 0.18rem;
+    font-weight: 500;
+}
+.hotProductInfo ul li:nth-child(3){
+    width:100%;
+    height:10%;
+    font-size: 0.16rem;
+    color:#666;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}

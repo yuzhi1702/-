@@ -1,0 +1,128 @@
+.bannerPage{
+    width: 100%;
+    height: 100%;
+    background: lightskyblue;
+    overflow: auto;
+}
+.getCoupons {
+    width: 100%;
+    height: 8%;
+    background: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #666;
+    font-size: 0.16rem;
+}
+.bannerPage-top-pic{
+    width: 100%;
+    height: 40%;
+}
+.bannerPage-top-pic>img{
+    height: 100%;
+    height: 100%;
+}
+.bannerPage .coupons{
+    width: 100%;
+    height: 15%;
+    background: #eee;
+}
+.bannerPage .nice-goods{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+.bannerPage .nice-goods>span{
+    display: block;
+    background-image: url(img/o.png);
+}
+.nice-products{
+    width:100%;
+    height:100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-left:1%;
+}
+.nice-products>ul{
+    width: 48%;
+    height: 60%;
+    margin: 0 1% 1% 0;
+    position: relative;
+    padding:1% 1% 0 1%;
+    background: #fff;
+}
+.nice-products>ul>li:nth-child(1){
+    width:100%;
+    height:70%;
+}
+.nice-products>ul>li:nth-child(1) img{
+    width:98%;
+    height:100%;
+}
+.nice-products>ul>li:nth-child(2){
+    width: 50%;
+    height: 6%;
+    position: absolute;
+    right: 4%;
+    bottom:32%;
+    color: #fff;
+    background: #000;
+    opacity: 0.5;
+    font-size: 0.12rem ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nice-products>ul>li:nth-child(3){
+    width:100%;
+    height:10%;
+    display: flex;
+    align-items: center;
+}
+.nice-products>ul>li:nth-child(3)>span:nth-child(1){
+    display: inline-block;
+    width: 13%;
+    margin-left: 2%;
+    /*height:100%;*/
+    background: #f37;
+    border-radius: 20%;
+    text-align: center;
+    color:#fff;
+}
+.nice-products>ul>li:nth-child(3)>span:nth-child(2){
+    display: inline-block;
+    width: 20%;
+    color: #666666;
+    font-size: 0.18rem;
+}
+.nice-products>ul>li:nth-child(4){
+    width:90%;
+    height:5%;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: #666666;
+}
+.nice-products>ul>li:nth-child(5){
+    width:100%;
+    height:10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+}
+.nice-products>ul>li:nth-child(5) p{
+    width:80%;
+    height:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f37;
+    border-radius: 25px;
+    color:#fff;
+}

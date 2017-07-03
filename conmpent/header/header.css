@@ -1,0 +1,44 @@
+/*create  by yanghuan 2017 7 2*/
+
+
+.top-search{
+    width: 100%;
+    height: 10%;
+}
+.top-search>form{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.top-search>form .banner-l{
+    width:18%;
+    height:100%;
+    padding:4% 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.top-search>form>a>img{
+    width:100%;
+    height:100%;
+}
+.top-search>form>input{
+    width: 67%;
+    height: 60%;
+    background: #eee;
+    border: none;
+    text-indent: 0.4rem;
+    border: 0;
+}
+.top-search>form .banner-r{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.top-search>form .banner-r>img{
+    width:40%;
+    height:40%;
+}
