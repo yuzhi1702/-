@@ -1,11 +1,11 @@
 /**
  * Created by YZTC on 2017/7/3.
  */
-angular.module('registerModule',['ui.router'])
+angular.module('registerModule2',['ui.router'])
     .config(function($stateProvider, $urlRouterProvider) {
         $stateProvider
-            .state('register', {
-                url: '/register',
+            .state('register2', {
+                url: '/register2',
                 templateUrl: 'conmpent/mine/register/register.html',
                 controller:'registerCtrl',
                 css:'conmpent/mine/register/register.css'
