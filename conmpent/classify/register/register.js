@@ -1,13 +1,13 @@
 /**
  * Created by lh1214029722 on 2017/6/30.
  */
-angular.module('registerModule',['ui.router'])
+angular.module('registerModule3',['ui.router'])
     .config(function($stateProvider, $urlRouterProvider) {
         $stateProvider
-            .state('register', {
-                url: '/register',
+            .state('register3', {
+                url: '/register3',
                 templateUrl: 'conmpent/classify/register/register.html',
-                controller:'registerCtrl',
+                controller:'registerCtrl3',
                 css:['conmpent/classify/register/register.css']
             })
     })
@@ -16,6 +16,6 @@ angular.module('registerModule',['ui.router'])
             return $http.get(data);
         }
     }])
-    .controller("registerCtrl",["$scope",'$http','getData0',function ($scope,$http,getData0) {
+    .controller("registerCtrl3",["$scope",'$http','getData0',function ($scope,$http,getData0) {
 
     }])

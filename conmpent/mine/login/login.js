@@ -1,8 +1,8 @@
-angular.module('loginModule2',['ui.router'])
+angular.module('loginModule',['ui.router'])
     .config(function($stateProvider, $urlRouterProvider) {
         $stateProvider
-            .state('login2', {
-                url: '/login2',
+            .state('login', {
+                url: '/login',
                 templateUrl: 'conmpent/mine/login/login.html',
                 controller:'loginCtrl',
                 css:'conmpent/mine/login/login.css'

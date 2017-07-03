@@ -1,0 +1,16 @@
+.head7{  width: 100%;height: .3rem;background: white; font-size: .16rem  }
+.head71{ float: left}
+.head72{ float: right;margin-top: -.2rem}
+.head7 p{ text-align: center}
+.head li{ width: 44%;float: left;height: 3.2rem;margin-left: 0.2rem}
+.head li img {width: 100%;height: 1.7rem;}
+.head p{  font-size: 0.18rem;  }
+.head img{ width: 100%;height: 35%;}
+.head{ width: 100%;height: 90%;overflow: auto;}
+.head0{ width: 100%;height: 20%;background: lavender; }
+.head0 p{  margin-left: 1rem  }
+.head0 p span{ margin-left: 0.2rem ;color: red}
+.head3{ width: 100%;margin-top: .2rem}
+.head3 p{ border: 1px solid lightslategray;line-height: .3rem;width: 1rem;float: left;margin-left: .5rem;-webkit-border-radius: 15%;}
+.head6{ width: 100%;background: url(http://s17.mogucdn.com/p1/160803/idid_ifrdeolemuygknrsmezdambqmeyde_640x222.png) center;}
+.head6 img{ width: .7rem;height: .7rem;-webkit-border-radius: 50%;    margin-left: 1.5rem;}

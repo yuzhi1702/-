@@ -31,16 +31,6 @@ angular.module('tuoModule',['ui.router'])
             })
         }
     }])
-
-
-
-
-
-
-
-
-
-
     .controller("tuoCtrl",["$scope",'$http','getData8','swiper',function ($scope,$http,getData8,swiper) {
 
         getData8.get('json/zi7.json').then(function (rea) {

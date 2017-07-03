@@ -11,9 +11,6 @@ angular.module('classifyModule',['ui.router'])
                 css:'conmpent/classify/classify.css'
             })
     })
-
-
-
     .service('getData',['$http',function ($http) {
         this.get=function (data) {
             return $http.get(data);
