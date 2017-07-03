@@ -13,4 +13,6 @@ angular.module('mineModule',['ui.router'])
     })
     .controller('mineCtrl',['$scope',function ($scope) {
         $scope.name="mine";
+        $scope.shopnum=0;
+        $scope.goodsnum=2;
     }])

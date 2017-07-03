@@ -1,1 +1,50 @@
-<h6>{{name}}</h6>
+<div id="minbox">
+    <div id="minhead">
+        <a href="" id="returnBtn"></a>
+        <p>个人中心</p>
+        <a href="" class="skipBtn" ui-sref="login">登录</a>
+    </div>
+
+    <div id="user_info">
+        <div id="user_info_row1">
+            <div id="user_head">
+                <img src="http://s3.mogucdn.com/new1/v1/bdefaultavatar/06.jpg" alt="">
+            </div>
+            <p id="user_name" >未登录</p>
+        </div>
+        <div id="user_info_row2">
+            <ul>
+                <li ui-sref="goods"><a href=""><div class="favorite_row1">{{goodsnum}}</div><p class="favorite_row2">收藏的宝贝</p></a></li>
+                <li ui-sref="shops"><a href=""><div class="favorite_row1">{{shopnum}}</div><p class="favorite_row2">收藏的店铺</p></a></li>
+                <li><a href=""><div class="favorite_row1"><span id="coupon"></span></div><p class="favorite_row2">优惠券</p></a></li>
+                <li><a href=""><div class="favorite_row1"><span id="address"></span></div><p class="favorite_row2">收货地址</p></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="mine_line"></div>
+
+    <a href="" id="shareBtn">
+        <span id="starbox"></span>
+        <p>成为分享达人</p>
+        <span id="sharebox2">分享赚钱  <i class="fa fa-angle-right"></i></span>
+    </a>
+    <div class="mine_line"></div>
+
+    <ul id="order">
+        <li><a href="">
+            <div class="iconbox"></div>
+            全部订单</a></li>
+        <li><a href="">
+            <div class="iconbox"></div>
+            待付款</a></li>
+        <li><a href="">
+            <div class="iconbox"></div>
+            待收货</a></li>
+        <li><a href="">
+            <div class="iconbox"></div>
+            待评价</a></li>
+    </ul>
+
+    <div id="order_info" ui-view></div>
+</div>
+</div>
