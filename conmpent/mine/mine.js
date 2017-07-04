@@ -11,16 +11,6 @@ angular.module('mineModule',['ui.router'])
                 css:'conmpent/mine/mine.css'
             })
     })
-    .controller('mineCtrl',['$scope','$state','myFactory',function ($scope,$state,$myFactory) {
-        $scope.name="mine";
-        $scope.shopnum=0;
-        $scope.goodsnum=2;
-
-        $scope.toProducer = function (producerId) {
-            $state.go('mine.order', {producerId: producerId});
-        };
-    }])
-
     .factory('myFactory', function () {
         //定义factory返回对象
         var myServices = {};
@@ -38,3 +28,21 @@ angular.module('mineModule',['ui.router'])
 
         return myServices;
     })
+    .controller('mineCtrl',['$scope','$state','myFactory','$timeout',function ($scope,$state,myFactory,$timeout) {
+        $scope.name="mine";
+        $scope.shopnum=0;
+        $scope.goodsnum=2;
+        $scope.quitbtn="";
+        $scope.quitbtn="!flag";
+        if(localStorage.getItem('username')){
+            $timeout(function(){
+                $scope.username=localStorage.getItem('username');
+                $scope.loginbtn="退出";
+            },10);
+        };
+        $scope.click_loginbtn = function () {
+            localStorage.removeItem('username');
+        };
+
+    }])
+
