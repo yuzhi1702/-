@@ -1,218 +1,811 @@
 {
-  "api": "mwp.darwin.get",
-  "v": "3",
-  "ret": "SUCCESS",
-  "data": {
-    "list": [
-      {
-        "tradeItemId": "616867686",
-        "image": "http://s11.mogucdn.com/mlcdn/c45406/170531_0lkd77aab7ahhhj3g5h04h57b95eb_640x832.jpg",
-        "item_id": "1kej8ck",
-        "itemLikes": "495",
-        "discountPrice": "75.63",
-        "discount": "1000",
-        "acm": "3.mce.2_4_1kej8ck.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_0",
-        "title": "新款夏季套趾凉拖简约时尚居家休闲鞋防滑平底鞋沙滩套脚女士拖鞋",
-        "isShelf": "0",
-        "shop_id": "1172jnw8",
-        "itemSale": "26",
-        "cfav": "495",
-        "price": "75.63",
-        "item_url": "http://item.meilishuo.com/detail/1kej8ck?acm=3.mce.2_4_1kej8ck.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_0",
-        "item_h5_url": "http://item.meilishuo.com/h5/detail/1kej8ck?acm=3.mce.2_4_1kej8ck.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_0"
+  "status": {
+    "code": 1001,
+    "msg": ""
+  },
+  "result": {
+    "skuInfo": {
+      "title": "夏季港风新款薄款休闲裤男士条纹百搭大码小脚裤九分裤男裤子",
+      "skus": [
+        {
+          "stockId": "1sbw1as",
+          "xdSkuId": "1sbw1as",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_8a31i1k66eeh64ghj9kch0leaa341_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "黑色",
+          "size": "M",
+          "styleId": 1,
+          "sizeId": 100
+        },
+        {
+          "stockId": "1sbw1au",
+          "xdSkuId": "1sbw1au",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_8a31i1k66eeh64ghj9kch0leaa341_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "黑色",
+          "size": "L",
+          "styleId": 1,
+          "sizeId": 101
+        },
+        {
+          "stockId": "1sbw1aw",
+          "xdSkuId": "1sbw1aw",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_8a31i1k66eeh64ghj9kch0leaa341_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "黑色",
+          "size": "XL",
+          "styleId": 1,
+          "sizeId": 102
+        },
+        {
+          "stockId": "1sbw1ay",
+          "xdSkuId": "1sbw1ay",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_8a31i1k66eeh64ghj9kch0leaa341_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "黑色",
+          "size": "2XL",
+          "styleId": 1,
+          "sizeId": 103
+        },
+        {
+          "stockId": "1sbw1b0",
+          "xdSkuId": "1sbw1b0",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_8a31i1k66eeh64ghj9kch0leaa341_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "黑色",
+          "size": "3XL",
+          "styleId": 1,
+          "sizeId": 104
+        },
+        {
+          "stockId": "1sbw1b2",
+          "xdSkuId": "1sbw1b2",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_8a31i1k66eeh64ghj9kch0leaa341_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "黑色",
+          "size": "4XL",
+          "styleId": 1,
+          "sizeId": 105
+        },
+        {
+          "stockId": "1sbw1b4",
+          "xdSkuId": "1sbw1b4",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_8a31i1k66eeh64ghj9kch0leaa341_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "黑色",
+          "size": "5XL",
+          "styleId": 1,
+          "sizeId": 106
+        },
+        {
+          "stockId": "1sbw1bk",
+          "xdSkuId": "1sbw1bk",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_75kgg1ieedb467g4h88l469ccl6h1_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "蓝色",
+          "size": "M",
+          "styleId": 2,
+          "sizeId": 100
+        },
+        {
+          "stockId": "1sbw1bm",
+          "xdSkuId": "1sbw1bm",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_75kgg1ieedb467g4h88l469ccl6h1_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "蓝色",
+          "size": "L",
+          "styleId": 2,
+          "sizeId": 101
+        },
+        {
+          "stockId": "1sbw1bo",
+          "xdSkuId": "1sbw1bo",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_75kgg1ieedb467g4h88l469ccl6h1_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "蓝色",
+          "size": "XL",
+          "styleId": 2,
+          "sizeId": 102
+        },
+        {
+          "stockId": "1sbw1bq",
+          "xdSkuId": "1sbw1bq",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_75kgg1ieedb467g4h88l469ccl6h1_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "蓝色",
+          "size": "2XL",
+          "styleId": 2,
+          "sizeId": 103
+        },
+        {
+          "stockId": "1sbw1bs",
+          "xdSkuId": "1sbw1bs",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_75kgg1ieedb467g4h88l469ccl6h1_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "蓝色",
+          "size": "3XL",
+          "styleId": 2,
+          "sizeId": 104
+        },
+        {
+          "stockId": "1sbw1bu",
+          "xdSkuId": "1sbw1bu",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_75kgg1ieedb467g4h88l469ccl6h1_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "蓝色",
+          "size": "4XL",
+          "styleId": 2,
+          "sizeId": 105
+        },
+        {
+          "stockId": "1sbw1bw",
+          "xdSkuId": "1sbw1bw",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_75kgg1ieedb467g4h88l469ccl6h1_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "蓝色",
+          "size": "5XL",
+          "styleId": 2,
+          "sizeId": 106
+        },
+        {
+          "stockId": "1sbw1b8",
+          "xdSkuId": "1sbw1b8",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_2j7195jkjcaj4ifd8ge3cd39fi3g3_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "藏青色",
+          "size": "M",
+          "styleId": 3,
+          "sizeId": 100
+        },
+        {
+          "stockId": "1sbw1b6",
+          "xdSkuId": "1sbw1b6",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_2j7195jkjcaj4ifd8ge3cd39fi3g3_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "藏青色",
+          "size": "L",
+          "styleId": 3,
+          "sizeId": 101
+        },
+        {
+          "stockId": "1sbw1ba",
+          "xdSkuId": "1sbw1ba",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_2j7195jkjcaj4ifd8ge3cd39fi3g3_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "藏青色",
+          "size": "XL",
+          "styleId": 3,
+          "sizeId": 102
+        },
+        {
+          "stockId": "1sbw1bc",
+          "xdSkuId": "1sbw1bc",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_2j7195jkjcaj4ifd8ge3cd39fi3g3_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "藏青色",
+          "size": "2XL",
+          "styleId": 3,
+          "sizeId": 103
+        },
+        {
+          "stockId": "1sbw1be",
+          "xdSkuId": "1sbw1be",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_2j7195jkjcaj4ifd8ge3cd39fi3g3_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "藏青色",
+          "size": "3XL",
+          "styleId": 3,
+          "sizeId": 104
+        },
+        {
+          "stockId": "1sbw1bg",
+          "xdSkuId": "1sbw1bg",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_2j7195jkjcaj4ifd8ge3cd39fi3g3_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "藏青色",
+          "size": "4XL",
+          "styleId": 3,
+          "sizeId": 105
+        },
+        {
+          "stockId": "1sbw1bi",
+          "xdSkuId": "1sbw1bi",
+          "price": 8500,
+          "nowprice": 8500,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170530_2j7195jkjcaj4ifd8ge3cd39fi3g3_640x842.jpg",
+          "currency": "￥",
+          "stock": 1000,
+          "style": "藏青色",
+          "size": "5XL",
+          "styleId": 3,
+          "sizeId": 106
+        }
+      ],
+      "props": [
+        {
+          "label": "颜色:",
+          "list": [
+            {
+              "type": "style",
+              "name": "黑色",
+              "isDefault": false,
+              "styleId": 1,
+              "index": 1
+            },
+            {
+              "type": "style",
+              "name": "蓝色",
+              "isDefault": false,
+              "styleId": 2,
+              "index": 2
+            },
+            {
+              "type": "style",
+              "name": "藏青色",
+              "isDefault": false,
+              "styleId": 3,
+              "index": 3
+            }
+          ],
+          "isDefault": false
+        },
+        {
+          "label": "尺码:",
+          "list": [
+            {
+              "type": "size",
+              "name": "M",
+              "isDefault": false,
+              "sizeId": 100,
+              "index": 100
+            },
+            {
+              "type": "size",
+              "name": "L",
+              "isDefault": false,
+              "sizeId": 101,
+              "index": 101
+            },
+            {
+              "type": "size",
+              "name": "XL",
+              "isDefault": false,
+              "sizeId": 102,
+              "index": 102
+            },
+            {
+              "type": "size",
+              "name": "2XL",
+              "isDefault": false,
+              "sizeId": 103,
+              "index": 103
+            },
+            {
+              "type": "size",
+              "name": "3XL",
+              "isDefault": false,
+              "sizeId": 104,
+              "index": 104
+            },
+            {
+              "type": "size",
+              "name": "4XL",
+              "isDefault": false,
+              "sizeId": 105,
+              "index": 105
+            },
+            {
+              "type": "size",
+              "name": "5XL",
+              "isDefault": false,
+              "sizeId": 106,
+              "index": 106
+            }
+          ],
+          "isDefault": false
+        }
+      ],
+      "styleKey": "颜色",
+      "sizeKey": "尺码",
+      "priceRange": "¥85.00",
+      "defaultPrice": "¥85.00",
+      "isAbroad": false,
+      "totalStock": 21000
+    },
+    "itemInfo": {
+      "desc": "夏季港风新款薄款休闲裤男士条纹百搭大码小脚裤九分裤男裤子n15",
+      "userId": "1zyeb84",
+      "shopId": "1172jnw8",
+      "title": "夏季港风新款薄款休闲裤男士条纹百搭大码小脚裤九分裤男裤子",
+      "discountDesc": "",
+      "discountBgColor": "#f13e3a",
+      "lowPrice": "85.00",
+      "highPrice": "85.00",
+      "lowNowPrice": "85.00",
+      "highNowPrice": "85.00",
+      "iid": "1keq8c8",
+      "isSelf": false,
+      "isFaved": false,
+      "imUrl": "mls://imTalk?&source=1&goodsId=1keq8c8&userId=1zyeb84&shopId=1172jnw8",
+      "state": 0,
+      "topImages": [
+        "http://s3.mogucdn.com/p2/170630/upload_5kdlllc93eajb578e2gc71774e477_640x900.jpg",
+        "http://s3.mogucdn.com/p2/170627/upload_4j0ibdjfd616265ek8cdk5l8j0ife_640x900.jpg",
+        "http://s3.mogucdn.com/p2/170627/upload_67ee987f9e53baj5lh999f681jaj0_640x900.jpg",
+        "http://s3.mogucdn.com/p2/170627/upload_0dijg4k046e8f4fi00faggd0cli53_640x900.jpg",
+        "http://s3.mogucdn.com/p2/170627/upload_13ad693d248cel1e7dk34ib6ghdg2_640x900.jpg",
+        "http://s3.mogucdn.com/p2/170627/upload_39b193b2fek203jd9gk0i9k8352hb_640x900.jpg"
+      ],
+      "price": "¥85.00",
+      "saleType": 0,
+      "tags": "",
+      "inActivity": false,
+      "redPacketsSwitch": false,
+      "cFav": 0,
+      "admin": false,
+      "cids": "#682# #822# #846# #10005412#",
+      "cartNum": 0,
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "浙江 杭州"
       },
-      {
-        "tradeItemId": "616896439",
-        "image": "http://s3.mogucdn.com/p2/170626/upload_342ciaj05bfl66ga177glelkl96lc_640x900.jpg",
-        "item_id": "1kekgpy",
-        "itemLikes": "309",
-        "discountPrice": "110.00",
-        "discount": "1000",
-        "acm": "3.mce.2_4_1kekgpy.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_1",
-        "title": "真皮平底珍珠水钻拖鞋复古街头风女夏季韩版草编底时尚渔夫鞋",
-        "isShelf": "0",
-        "shop_id": "1172jnw8",
-        "itemSale": "35",
-        "cfav": "309",
-        "price": "110.00",
-        "item_url": "http://item.meilishuo.com/detail/1kekgpy?acm=3.mce.2_4_1kekgpy.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_1",
-        "item_h5_url": "http://item.meilishuo.com/h5/detail/1kekgpy?acm=3.mce.2_4_1kekgpy.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_1"
-      },
-      {
-        "tradeItemId": "616886369",
-        "image": "http://s3.mogucdn.com/p2/170627/upload_5ii4ih8g12c8l346g2d3aik9d5g83_640x900.jpg",
-        "item_id": "1kek16i",
-        "itemLikes": "282",
-        "discountPrice": "75.63",
-        "discount": "1000",
-        "acm": "3.mce.2_4_1kek16i.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_2",
-        "title": "蝴蝶结拖鞋厚底防滑一字拖欧美罗马沙滩鞋露趾休闲凉拖女",
-        "isShelf": "0",
-        "shop_id": "1172jnw8",
-        "itemSale": "7",
-        "cfav": "282",
-        "price": "75.63",
-        "item_url": "http://item.meilishuo.com/detail/1kek16i?acm=3.mce.2_4_1kek16i.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_2",
-        "item_h5_url": "http://item.meilishuo.com/h5/detail/1kek16i?acm=3.mce.2_4_1kek16i.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_2"
-      },
-      {
-        "tradeItemId": "616902386",
-        "image": "http://s3.mogucdn.com/p2/170609/upload_47580gl9daj79kbfh630i5j2da4d7_640x900.jpg",
-        "item_id": "1kekpwc",
-        "itemLikes": "295",
-        "discountPrice": "73.75",
-        "discount": "1000",
-        "acm": "3.mce.2_4_1kekpwc.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_3",
-        "title": "2017新夏简约净版凉鞋金属面料显脚瘦外穿凉拖鞋女潮街头风",
-        "isShelf": "0",
-        "shop_id": "1172jnw8",
-        "itemSale": "24",
-        "cfav": "295",
-        "price": "73.75",
-        "item_url": "http://item.meilishuo.com/detail/1kekpwc?acm=3.mce.2_4_1kekpwc.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_3",
-        "item_h5_url": "http://item.meilishuo.com/h5/detail/1kekpwc?acm=3.mce.2_4_1kekpwc.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_3"
-      },
-      {
-        "tradeItemId": "616955202",
-        "image": "http://s3.mogucdn.com/p2/170628/upload_54269114hkeb326ge5j2aj121aj0b_640x900.jpg",
-        "item_id": "1kemzek",
-        "itemLikes": "509",
-        "discountPrice": "147.50",
-        "discount": "1000",
-        "acm": "3.mce.2_4_1kemzek.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_4",
-        "title": "2017新款奢华水钻拖鞋女夏平底时尚外穿百搭沙滩凉拖鞋一字型",
-        "isShelf": "0",
-        "shop_id": "1172jnw8",
-        "itemSale": "10",
-        "cfav": "509",
-        "price": "147.50",
-        "item_url": "http://item.meilishuo.com/detail/1kemzek?acm=3.mce.2_4_1kemzek.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_4",
-        "item_h5_url": "http://item.meilishuo.com/h5/detail/1kemzek?acm=3.mce.2_4_1kemzek.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_4"
-      },
-      {
-        "tradeItemId": "616867725",
-        "image": "http://s3.mogucdn.com/mlcdn/c45406/170529_6gagj7968938jg48c87k7c9h3e4a2_640x832.jpg",
-        "item_id": "1kej8eq",
-        "itemLikes": "389",
-        "discountPrice": "65.63",
-        "discount": "1000",
-        "acm": "3.mce.2_4_1kej8eq.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_5",
-        "title": "夏季清凉夹趾鞋简约平底防滑拖鞋居家休闲凉拖时尚甜美沙滩鞋女鞋",
-        "isShelf": "0",
-        "shop_id": "1172jnw8",
-        "itemSale": "32",
-        "cfav": "389",
-        "price": "65.63",
-        "item_url": "http://item.meilishuo.com/detail/1kej8eq?acm=3.mce.2_4_1kej8eq.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_5",
-        "item_h5_url": "http://item.meilishuo.com/h5/detail/1kej8eq?acm=3.mce.2_4_1kej8eq.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_5"
-      },
-      {
-        "tradeItemId": "616866882",
-        "image": "http://s3.mogucdn.com/p2/170626/upload_25b1eifidh6fbe149l369gbbcgb83_640x900.jpg",
-        "item_id": "1kej73w",
-        "itemLikes": "394",
-        "discountPrice": "110.00",
-        "discount": "1000",
-        "acm": "3.mce.2_4_1kej73w.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_6",
-        "title": "【真皮款】水钻珍珠镶嵌平跟沙滩软底凉拖鞋",
-        "isShelf": "0",
-        "shop_id": "1172jnw8",
-        "itemSale": "36",
-        "cfav": "394",
-        "price": "110.00",
-        "item_url": "http://item.meilishuo.com/detail/1kej73w?acm=3.mce.2_4_1kej73w.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_6",
-        "item_h5_url": "http://item.meilishuo.com/h5/detail/1kej73w?acm=3.mce.2_4_1kej73w.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_6"
-      },
-      {
-        "tradeItemId": "616866773",
-        "image": "http://s3.mogucdn.com/p2/170626/upload_2jg93dgcfil43i1fb03cka2lj0b65_640x900.jpg",
-        "item_id": "1kej6xu",
-        "itemLikes": "472",
-        "discountPrice": "75.00",
-        "discount": "1000",
-        "acm": "3.mce.2_4_1kej6xu.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_7",
-        "title": "欧洲站绸缎方头包头粗跟拖鞋女夏尖头平跟凉拖平底鞋复古女鞋",
-        "isShelf": "0",
-        "shop_id": "1172jnw8",
-        "itemSale": "39",
-        "cfav": "472",
-        "price": "75.00",
-        "item_url": "http://item.meilishuo.com/detail/1kej6xu?acm=3.mce.2_4_1kej6xu.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_7",
-        "item_h5_url": "http://item.meilishuo.com/h5/detail/1kej6xu?acm=3.mce.2_4_1kej6xu.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_7"
-      },
-      {
-        "tradeItemId": "616745960",
-        "image": "http://s3.mogucdn.com/p2/170623/upload_19hheajkghg03l175a707994e8fjg_640x900.jpg",
-        "item_id": "1kee0i0",
-        "itemLikes": "472",
-        "discountPrice": "50.00",
-        "discount": "1000",
-        "acm": "3.mce.2_4_1kee0i0.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_8",
-        "title": "【品牌清仓款】休闲夹脚拖鞋沙滩鞋糖果色波点平底软木拖凉鞋",
-        "isShelf": "0",
-        "shop_id": "1172jnw8",
-        "itemSale": "38",
-        "cfav": "472",
-        "price": "50.00",
-        "item_url": "http://item.meilishuo.com/detail/1kee0i0?acm=3.mce.2_4_1kee0i0.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_8",
-        "item_h5_url": "http://item.meilishuo.com/h5/detail/1kee0i0?acm=3.mce.2_4_1kee0i0.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_8"
-      },
-      {
-        "tradeItemId": "616734681",
-        "image": "http://s3.mogucdn.com/p2/170629/upload_7h1hbf8fe2549al3137kd15j7c9ha_640x900.jpg",
-        "item_id": "1kedj3e",
-        "itemLikes": "63",
-        "discountPrice": "51.25",
-        "discount": "1000",
-        "acm": "3.mce.2_4_1kedj3e.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_9",
-        "title": "【品牌清仓款】平底休闲一字拖软木沙滩鞋凉拖鞋",
-        "isShelf": "0",
-        "shop_id": "1172jnw8",
-        "itemSale": "30",
-        "cfav": "63",
-        "price": "51.25",
-        "item_url": "http://item.meilishuo.com/detail/1kedj3e?acm=3.mce.2_4_1kedj3e.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_9",
-        "item_h5_url": "http://item.meilishuo.com/h5/detail/1kedj3e?acm=3.mce.2_4_1kedj3e.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_9"
-      },
-      {
-        "tradeItemId": "616745864",
-        "image": "http://s3.mogucdn.com/p2/170629/upload_5lbb54gahfh0lg16b92lcllf60l4j_640x900.jpg",
-        "item_id": "1kee0co",
-        "itemLikes": "257",
-        "discountPrice": "51.25",
-        "discount": "1000",
-        "acm": "3.mce.2_4_1kee0co.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_10",
-        "title": "【品牌清仓款】豹纹一脚套拖鞋沙滩鞋简约低跟韩版平底凉拖鞋",
-        "isShelf": "0",
-        "shop_id": "1172jnw8",
-        "itemSale": "32",
-        "cfav": "257",
-        "price": "51.25",
-        "item_url": "http://item.meilishuo.com/detail/1kee0co?acm=3.mce.2_4_1kee0co.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_10",
-        "item_h5_url": "http://item.meilishuo.com/h5/detail/1kee0co?acm=3.mce.2_4_1kee0co.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_10"
-      },
-      {
-        "tradeItemId": "616747772",
-        "image": "http://s3.mogucdn.com/p2/170531/upload_1g4kghlg426dd70ej69e33de237h4_640x900.jpg",
-        "item_id": "1kee3ao",
-        "itemLikes": "257",
-        "discountPrice": "145.00",
-        "discount": "1000",
-        "acm": "3.mce.2_4_1kee3ao.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_11",
-        "title": "韩版学院风尖头镂空纱网波点蝴蝶结平底高跟鞋凉拖鞋凉鞋女鞋子",
-        "isShelf": "0",
-        "shop_id": "1172jnw8",
-        "itemSale": "33",
-        "cfav": "257",
-        "price": "145.00",
-        "item_url": "http://item.meilishuo.com/detail/1kee3ao?acm=3.mce.2_4_1kee3ao.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_11",
-        "item_h5_url": "http://item.meilishuo.com/h5/detail/1kee3ao?acm=3.mce.2_4_1kee3ao.6011.41758-41756.1QHuZqo1wB0w5.mid_6011-lc_201-pos_11"
-      }
+      "addCartTips": false,
+      "isGrayUser": false,
+      "isNewComer": false
+    },
+    "topBar": {
+      "img": "http://s3.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    },
+    "detailInfo": {
+      "desc": "夏季港风新款薄款休闲裤男士条纹百搭大码小脚裤九分裤男裤子n15",
+      "detailImage": [
+        {
+          "desc": "薄款 ",
+          "key": "穿着效果",
+          "anchor": "model_img",
+          "list": [
+            "http://s3.mogucdn.com/p2/170630/10000000_2belal65e4i1cdjajj44a7g6c9k63_1500x300.jpg",
+            "http://s3.mogucdn.com/p2/170630/10000000_38bbj3d8iic7alli6jlk5e498ic90_1500x733.jpg",
+            "http://s17.mogucdn.com/p2/170611/upload_16l95f5d240356bfdefhgl42lad49_718x365.png",
+            "http://s3.mogucdn.com/p2/170628/upload_226l9db8h47ddge4ka0b36klbk346_750x999.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_527a23hfkl8g145k7i00i229ihill_750x999.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_481h0a5c4b1b57dka06ifhi0e528a_750x999.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_022haf6a080j6bl65kkeek80e8dj5_750x999.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_1ce7c0k6bebbc94hi2aeffg4hcikj_750x999.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_422ff6akada6h4119153858l7k89d_750x570.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_5c3dbca4g7fk4hjfg57gac3b1gb82_750x999.jpg",
+            "http://s11.mogucdn.com/p2/170628/upload_63k2ag4eifb7a28gffb68l2lek0a5_750x999.jpg",
+            "http://s11.mogucdn.com/p2/170628/upload_110g3ae39c08d7ka5dci62gaf6fhi_750x999.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_85af305aa7bajhi0bc6i4l7a17ik6_750x999.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_5aal4d4a8d580159gjk731ki8cjkh_750x999.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_4i100gf1481b553a43dk0g966ghfj_750x428.jpg",
+            "http://s11.mogucdn.com/p2/170628/upload_36e0chj89edk5b25i31a87111bgd8_750x999.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_09d7jai8e5dd2dghkg2h2l4j9ck97_750x999.jpg",
+            "http://s17.mogucdn.com/p2/170628/upload_52kjg2l4ah67gihg2l58ddckah73a_750x999.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_6cfidal4l4hi6jeh9aah7e930g09f_750x999.jpg",
+            "http://s17.mogucdn.com/p2/170628/upload_2l5ec15ia1jbif8i33d9aae965hlh_750x999.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_82fi8egf8h94iig2h66je24903781_750x442.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_474aed56lb6c2c9e3lgi031abgl47_750x999.jpg",
+            "http://s3.mogucdn.com/p2/170628/upload_30j02j4ddjdb8705ag11d4fblk9dh_750x532.jpg",
+            "http://s3.mogucdn.com/p2/170606/upload_5f969c6jf9ic7l37fe8kch1b8ac27_750x335.png"
+          ]
+        }
+      ]
+    },
+    "columns": [
+      "销量 12",
+      "收藏154人",
+      "默认快递"
     ],
-    "isEnd": false,
-    "nextPage": 2,
-    "context": {
-      "currentTime": 1498815858
-    }
+    "promotions": {
+      "link": "mls://shoppro?shopId=1172jnw8",
+      "alertData": {},
+      "list": [
+        "美美豆抵扣"
+      ]
+    },
+    "itemParams": {
+      "info": {
+        "images": [
+          "http://s11.mogucdn.com/p2/170117/upload_81lfhei6g7f6992kk1b6cd72g5f32_1125x647.jpg",
+          "http://s3.mogucdn.com/p2/170118/upload_00e2357hd57g860f9khakh3a6bbbi_1125x915.png",
+          "http://s3.mogucdn.com/p2/170630/10000000_79ja2hf9lafddg709kki3h18bi352_1500x2238.jpg",
+          "http://s3.mogucdn.com/p2/170118/upload_55c7c64956bfbd75c3ib3j4ik029b_1125x509.png"
+        ],
+        "set": [],
+        "key": "产品参数",
+        "anchor": "product_info"
+      },
+      "rule": {
+        "tables": [
+          [
+            [
+              "尺码",
+              "M",
+              "L",
+              "XL",
+              "2XL"
+            ],
+            [
+              "档长",
+              "28",
+              "29",
+              "30",
+              "31"
+            ],
+            [
+              "大腿围",
+              "54",
+              "56",
+              "58",
+              "60"
+            ],
+            [
+              "腰围",
+              "72",
+              "76",
+              "80",
+              "84"
+            ],
+            [
+              "臀围",
+              "98",
+              "102",
+              "106",
+              "110"
+            ],
+            [
+              "裤长",
+              "103",
+              "105",
+              "107",
+              "109"
+            ],
+            [
+              "裤口",
+              "34",
+              "36",
+              "38",
+              "40"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "3XL",
+              "4XL",
+              "5XL"
+            ],
+            [
+              "档长",
+              "32",
+              "33",
+              "34"
+            ],
+            [
+              "大腿围",
+              "62",
+              "64",
+              "66"
+            ],
+            [
+              "腰围",
+              "88",
+              "92",
+              "96"
+            ],
+            [
+              "臀围",
+              "114",
+              "118",
+              "122"
+            ],
+            [
+              "裤长",
+              "111",
+              "113",
+              "115"
+            ],
+            [
+              "裤口",
+              "42",
+              "44",
+              "46"
+            ]
+          ]
+        ],
+        "key": "尺码说明",
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+      }
+    },
+    "shopInfo": {
+      "score": [
+        {
+          "name": "描述相符",
+          "score": 4.59,
+          "isBetter": true
+        },
+        {
+          "name": "价格合理",
+          "score": 4.58,
+          "isBetter": true
+        },
+        {
+          "name": "质量满意",
+          "score": 4.57,
+          "isBetter": true
+        }
+      ],
+      "services": [
+        {
+          "icon": "http://s3.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "http://s3.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "http://s3.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "http://s3.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        },
+        {
+          "icon": "http://s3.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "白付美",
+          "link": ""
+        }
+      ],
+      "categories": [
+        {
+          "name": "\b外套",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142317"
+        },
+        {
+          "name": "大衣",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142319"
+        },
+        {
+          "name": "棉服&羽绒服",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142320"
+        },
+        {
+          "name": "裙子",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142328"
+        },
+        {
+          "name": "连衣裙",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142329"
+        },
+        {
+          "name": "半身裙",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142330"
+        },
+        {
+          "name": "裤子",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142331"
+        },
+        {
+          "name": "牛仔裤",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142332"
+        },
+        {
+          "name": "裤装",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142333"
+        },
+        {
+          "name": "套装",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142334"
+        },
+        {
+          "name": "上衣",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20145521"
+        },
+        {
+          "name": "卫衣",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20145526"
+        },
+        {
+          "name": "针织&毛衣",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20145561"
+        },
+        {
+          "name": "毛衣",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20145565"
+        },
+        {
+          "name": "针织衫",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20145566"
+        },
+        {
+          "name": "包包",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20148551"
+        },
+        {
+          "name": "配件",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20153719"
+        },
+        {
+          "name": "袜子",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20153720"
+        },
+        {
+          "name": "帽子/围巾",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20153721"
+        },
+        {
+          "name": "男友",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20158510"
+        },
+        {
+          "name": "夹克&棒球服",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160576"
+        },
+        {
+          "name": "开衫",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160577"
+        },
+        {
+          "name": "风衣",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160578"
+        },
+        {
+          "name": "T恤",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160580"
+        },
+        {
+          "name": "衬衫",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160582"
+        },
+        {
+          "name": "鞋子",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160606"
+        },
+        {
+          "name": "靴子",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160608"
+        },
+        {
+          "name": "雪地靴",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160610"
+        },
+        {
+          "name": "休闲鞋",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160615"
+        },
+        {
+          "name": "新品",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160658"
+        },
+        {
+          "name": "马甲",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160682"
+        },
+        {
+          "name": "官方出品",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20174424"
+        },
+        {
+          "name": "内衣/家居服",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20182588"
+        },
+        {
+          "name": "美妆",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20191582"
+        },
+        {
+          "name": "正在流行",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20194558"
+        },
+        {
+          "name": "纱~网纱~蕾丝纱~",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20194559"
+        },
+        {
+          "name": "凉鞋",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20201833"
+        },
+        {
+          "name": "单鞋",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20201834"
+        },
+        {
+          "name": "运动鞋",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20201835"
+        },
+        {
+          "name": "拖鞋",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20201836"
+        },
+        {
+          "name": "帆布鞋",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20202886"
+        }
+      ],
+      "cFans": 91005,
+      "cSells": 1962888,
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172jnw8",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172jnw8",
+      "isMarked": false,
+      "cGoods": 33882,
+      "userId": "1zyeb84",
+      "shopLogo": "http://s3.mogucdn.com/p2/161111/hz75la_8f8kk1ff66365a77e520dckl0lb51_200x200.jpg",
+      "name": "美丽优选",
+      "shopId": "1172jnw8",
+      "type": 4,
+      "level": 3,
+      "nonsupportReasonRefound": false
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "isLogin": false,
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>"
   }
 }

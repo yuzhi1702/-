@@ -23,5 +23,8 @@ angular.module('skirtModule',['ui.router'])
 
             console.log(rea.data);
         })
+        $scope.toTuo = function(item){
+            localStorage.setItem('toTuo',JSON.stringify(item));
+        }
 
     }])

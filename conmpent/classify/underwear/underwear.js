@@ -22,4 +22,7 @@ angular.module('underwearModule',['ui.router'])
             $scope.arr = rea.data.data.list;
             console.log(rea.data.data.list);
         })
+        $scope.toTuo = function(item){
+            localStorage.setItem('toTuo',JSON.stringify(item));
+        }
     }])

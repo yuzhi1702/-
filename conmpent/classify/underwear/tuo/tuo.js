@@ -34,10 +34,23 @@ angular.module('tuoModule',['ui.router'])
     .controller("tuoCtrl",["$scope",'$http','getData8','swiper',function ($scope,$http,getData8,swiper) {
 
         getData8.get('json/zi7.json').then(function (rea) {
-            $scope.arr = rea.data.data.list;
-            console.log(rea.data.data.list);
+            $scope.arr = rea;
+            console.log(rea.data.result);
             swiper.swiper();
+
+            console.log()
         })
+        var toTuo=JSON.parse(localStorage.getItem('toTuo'));
+        $scope.orr=toTuo
+        console.log(toTuo)
+        $scope.ass=function(tuo){
+           var adcs=[ ];
+            adcs.push(tuo)
+
+            localStorage.setItem('adcs',JSON.stringify(adcs))
+            console.log( localStorage.getItem('adcs'))
+        }
+       // console.log('ssss', $scope.orr.title)
     }])
 
 

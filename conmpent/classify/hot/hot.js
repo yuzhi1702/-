@@ -23,4 +23,9 @@ angular.module('hotModule',['ui.router'])
 
             console.log(rea.data.data.list);
         })
+
+
+        $scope.toTuo = function(item){
+            localStorage.setItem('toTuo',JSON.stringify(item));
+        }
     }])

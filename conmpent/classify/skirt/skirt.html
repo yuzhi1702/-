@@ -7,7 +7,7 @@
     <p ng-click =" has = 'itemLikes'"  >按好评 </p>
         <p ui-sref="classify">返回</p>
     </div>
-    <li ng-repeat="item1 in arr | orderBy : has"  >
+    <li  ui-sref="tuo" ng-repeat="item1 in arr | orderBy : has" ng-click="toTuo(item1)" >
         <img  src="{{item1.item_pc_img}}" alt="" />
         <p>{{item1 .title}}</p>
     </li>

@@ -3,8 +3,8 @@
 <div class="head" ui-view>
     <div class="swiper-container">
         <div class="swiper-wrapper">
-            <div class="swiper-slide"><img src="conmpent/classify/underwear/tuo/img/1.jpg"> </div>
-            <div class="swiper-slide"> <img src="conmpent/classify/underwear/tuo/img/2.jpg"> </div>
+            <div class="swiper-slide"><img src="{{orr.show.img}}"> </div>
+            <div class="swiper-slide"> <img src="{{orr.showLarge.img}}"> </div>
             <div class="swiper-slide"><img src="conmpent/classify/underwear/tuo/img/3.jpg"></div>
         </div>
         <!-- 如果需要分页器 -->
@@ -32,10 +32,10 @@
     <img src="http://s3.mogucdn.com/p2/170606/upload_5f969c6jf9ic7l37fe8kch1b8ac27_750x335.png_880x999.jpg">
     <img src="http://s3.mogucdn.com/p2/170627/10000000_2l6dbl1g5f76117ad249ei6ikfc57_1500x2550.jpg_468x468.jpg">
 
-    <li ng-repeat="item1 in arr" >
-        <img  src="{{item1.image}}" alt="" />
-        <p>{{item1 .title}}</p>
-        <p>{{item1 .orgPrice}}</p>
+    <li  >
+        <img  src="{{orr.show.img}}" alt="" />
+        <p>{{orr.title}}</p>
+        <p>{{orr .orgPrice}}</p>
     </li>
 
 </div>
@@ -45,7 +45,7 @@
         <li ui-sref="merchant">商铺</li>
         <li>收藏</li>
         <li class="classify1">加入购物车</li>
-        <li class="classify1">购买</li>
+        <li class="classify1"  ng-click="ass(orr)">购买</li>
     </div>
 </ul>
 

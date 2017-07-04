@@ -23,4 +23,9 @@ angular.module('shoeModule',['ui.router'])
 
             console.log(rea.data.data.list);
         })
+
+        $scope.toTuo = function(item){
+            localStorage.setItem('toTuo',JSON.stringify(item));
+        }
+
     }])

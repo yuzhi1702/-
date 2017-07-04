@@ -5,7 +5,7 @@
         <p ui-sref="classify">返回</p>
     </div>
 
-    <li ui-sref="slipper" ng-repeat="item1 in arr | orderBy : has" >
+    <li ui-sref="tuo" ng-repeat="item1 in arr | orderBy : has" ng-click="toTuo(item1)" >
         <img  src="{{item1.showLarge.img}}" alt="" />
         <p>{{item1 .title}}</p>
     </li>
