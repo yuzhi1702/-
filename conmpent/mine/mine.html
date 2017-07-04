@@ -2,7 +2,13 @@
     <div id="minhead">
         <a href="" id="returnBtn"></a>
         <p>个人中心</p>
-        <a href="" class="skipBtn" ui-sref="login">登录</a>
+        <div class="flagbox" >
+            <a href="" class="skipBtn"  ui-sref="login" ng-init="loginbtn='登录'" ng-click="click_loginbtn()">{{loginbtn}}</a>
+        </div>
+        <!--<div  class="flagbox" ng-hide="flag">-->
+            <!--<a href="" class="skipBtn"  ui-sref="mine.order" ng-click="flag2 = !flag2">退出</a>-->
+        <!--</div>-->
+
     </div>
 
     <div id="user_info">
@@ -10,7 +16,7 @@
             <div id="user_head">
                 <img src="http://s3.mogucdn.com/new1/v1/bdefaultavatar/06.jpg" alt="">
             </div>
-            <p id="user_name" >未登录</p>
+            <p id="user_name" ng-init="username='未登录'"  >{{username}}</p>
         </div>
         <div id="user_info_row2">
             <ul>
