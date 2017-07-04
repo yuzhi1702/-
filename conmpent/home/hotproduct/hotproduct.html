@@ -10,18 +10,27 @@
             的敏感度，一众走在潮流前面的明星可以说是了如指掌，跟上他们的步伐绝对不会出错哦！
         </p>
         <span><img class="h-r" src="img/h.png" alt=""></span>
-    </div>
-    <div class="hotProductInfo">
-        <ul ng-repeat="item in hotProductData">
-            <li><img src="{{item.image}}" alt=""></li>
-            <li><span></span>&nbsp￥<span>{{item.discountPrice}}</span></li>
-            <li>{{item.title}}</li>
-        </ul>
-    </div>
-    <div>
-        <div>
+        <div class="hotProductInner">
+            <ul ng-repeat="item in hotProductData">
+                <li><img src="{{item.image}}" alt=""></li>
+                <li><span></span>&nbsp￥<span>{{item.discountPrice}}</span></li>
+                <li>{{item.title}}</li>
+            </ul>
         </div>
-        <div></div>
+        <div class="starproduct">
+            <div  class="starproductTitle">
+                <p ng-class="{true:'active',false:'inactive'}[isActive1]" ng-click="add1()">爱明星同款</p>
+                <p ng-class="{true:'active',false:'inactive'}[isActive2]" ng-click="add2()">爱街拍神奇</p>
+            </div>
+            <div class="starProductInfo">
+                <ul ng-repeat="item in starProductData">
+                    <li><img src="{{item.show.img}}" alt=""></li>
+                    <li>{{item.title}}</li>
+                    <li>￥{{item.sale}}</li>
+                </ul>
+            </div>
+        </div>
     </div>
+
 
 </div>

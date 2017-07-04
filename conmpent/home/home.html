@@ -61,9 +61,9 @@
     <div class="fasion">
         <h3>本周流行</h3>
         <ul>
-            <li ng-repeat="item in saleProducts">
+            <li ng-repeat="item in fasionData">
                 <div class="fasion-pic">
-                    <img src="item.acm" alt="">
+                    <img src="{{item.image}}" alt="">
                 </div>
                 <p>{{item.words}}</p>
             </li>
@@ -74,17 +74,40 @@
         <h3>好物组货</h3>
         <p>最新潮好物，每日更新</p>
         <div class="good-products-bpic">
-            <!--<img src="" alt="">-->
+            <img src="img/b1.jpg" alt="">
+        </div>
+        <div  class="good-products-cate">
+            <ul ng-repeat="item in goodProductData">
+                <li class="cate-pic"><img src="{{item.image}}" alt=""></li>
+                <li class="cate-title">{{item.title}}</li>
+                <li>￥{{item.discountPrice}}</li>
+            </ul>
+        </div>
+        <div class="good-products-bpic">
+            <img src="img/b2.jpg" alt="">
         </div>
         <div class="good-products-cate">
-            <div class="good-products-inner">
-                <!--<img src="" alt="">-->
-                <p></p>
-                <p></p>
-            </div>
+            <ul ng-repeat="item in goodProductData">
+                <li class="cate-pic"><img src="{{item.image}}" alt=""></li>
+                <li class="cate-title">{{item.title}}</li>
+                <li>￥{{item.discountPrice}}</li>
+            </ul>
         </div>
     </div>
-
+    <!--流行 新款 精选-->
+    <div class="newProduct">
+        <div class="newProductTitle" >
+            <p ng-class="{true:'active',false:'inactive'}[isActive1]" ng-click="res1()">流行</p>
+            <p ng-class="{true:'active',false:'inactive'}[isActive2]" ng-click="res2()">新款</p>
+            <p ng-class="{true:'active',false:'inactive'}[isActive3]" ng-click="res3()">精选</p>
+        </div>
+        <div class="newProductInfo">
+            <ul ng-repeat="item in popularProductData">
+                <li><img src="{{item.show.img}}"></li>
+                <li>{{item.title}}</li>
+                <li>{{item.price}}</li>
+            </ul>
+        </div>
     </div>
 
 </div>

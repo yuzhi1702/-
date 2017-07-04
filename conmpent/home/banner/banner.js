@@ -18,7 +18,7 @@ angular.module('bannerModule',['ui.router'])
             $scope.bannerPageData = res.data.data[20114].list;
 
             $scope.niceProductsData = res.data.data[42287].list;
-            console.log($scope.niceProductsData);
+            // console.log($scope.niceProductsData);
 
 
         })
