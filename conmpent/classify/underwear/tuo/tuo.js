@@ -41,16 +41,16 @@ angular.module('tuoModule',['ui.router'])
             console.log()
         })
         var toTuo=JSON.parse(localStorage.getItem('toTuo'));
-        $scope.orr=toTuo
-        console.log(toTuo)
-        $scope.ass=function(tuo){
-           var adcs=[ ];
-            adcs.push(tuo)
+        $scope.orr=toTuo;
+        console.log(toTuo);
 
+        $scope.ass=function(tuo){
+            var adcs=[ ];
+            adcs = JSON.parse(localStorage.getItem('adcs'));
+            adcs.push(tuo);
             localStorage.setItem('adcs',JSON.stringify(adcs))
             console.log( localStorage.getItem('adcs'))
         }
-       // console.log('ssss', $scope.orr.title)
     }])
 
 
