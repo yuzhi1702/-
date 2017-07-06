@@ -13,4 +13,8 @@ angular.module('shopcarModule',['ui.router'])
     })
     .controller('shopcarCtrl',['$scope',function ($scope) {
         $scope.name="购物车";
+        $scope.arr=[];
+        $scope.cucu=JSON.parse(localStorage.getItem('toTuo'));
+        $scope.arr.push($scope.cucu)
+        console.log( $scope.arr)
     }])

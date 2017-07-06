@@ -56,5 +56,33 @@
     line-height: 0.5rem;
     margin-top:0.5rem;
     border-radius: 0.1rem;
+    position: relative;
     background: indianred;
+}
+.btn .btns{
+    width:100%;
+    height:5.8rem;
+    position: absolute;
+    left:0;
+    top:0.5rem;
+    /*display: none;*/
+    background: red;
+}
+.btn .btns .lis{
+    width:100%;
+    height:0.7rem;
+    margin:0.3rem 0 0.3rem 0;
+}
+.btn .btns .lis img{
+    width:0.7rem;
+    height:0.7rem;
+    margin-left: -2.5rem;
+}
+.btn .btns .btu{
+    position: absolute;
+    left:1.5rem;
+    top:0.5rem;
+}
+.btn .btns .btu p{
+    margin-bottom: 0.1rem;
 }
